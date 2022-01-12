@@ -1,0 +1,4853 @@
+﻿#############################################
+CURRENT SECTOR == IT
+#############################################
+Job Title: Sr Mgr, IT - Data Network Engineering
+Company Title: Entergy
+
+
+
+
+This position can be filled in New Orleans, LA, or Little Rock, AR.
+
+
+
+
+Job Summary:
+
+
+The Sr. Manager IT Data Network Engineering and Operations is responsible for planning, design, build, implementation, operation and maintenance of comprehensive data networks that supply critical services to the enterprise in support of business and utility operations. This responsibility includes providing governance and oversight of staff and activities supporting strategic programs, the IT Organization, Entergy Business Unit Senior Leadership and external vendors.
+
+
+The Sr. Manager will lead a team(s) including direct and indirect reports, a flexible pool of contingent or contract workers and outsourced functions.
+
+
+
+
+Job Duties/Responsibilities
+
+
+:
+
+
+Accountability for creating and operating a comprehensive Safety practice that results in a safe work environment and a strong safety record.
+
+
+Accountability for departmental staff that manage Enterprise Data Network products and services and act as integration point across functional and organizational boundaries.
+
+
+Accountability for contract and outsourced resources that contribute to Data Network objectives and act as an integration point across functional and organizational boundaries.
+
+
+Establish and maintain appropriate business relationships with Stakeholder Leadership and act as focal point for IT and Data Network related activities.
+
+
+Maintain awareness and oversight of Program activities to ensure that intended business outcomes are achieved. Accountable for project sponsor satisfaction with project delivery and functionality.
+
+
+Responsibility for partnering with Security Architecture, Application, and Infrastructure departments to ensure Programs align with overall IT strategy and follow Entergy's standards for security and technical architecture.
+
+
+Responsible for creating and maintaining roadmaps and strategies aligned with and supporting the direction of IT and Entergy’s business units. Communicate plans within IT and across Entergy as appropriate.
+
+
+Effectively leverage and provide oversight for support vendors responsible for maintenance of the data network.
+
+
+Accountable for optimizing the operational budget and project budgets to meet or exceed targets set by the organization
+
+
+Accountability for departmental staff that ensures IT Programs have proper staffing, estimates of efforts, oversight, path for escalation, process compliance, and product quality for project planning related activities.
+
+
+Coordinate and leverage internal support organizations to ensure compliance, effectiveness, and alignment with best practices (PMO, VMO, Compliance, Change Management, etc.)
+
+
+Accountable for compliance with applicable internal and external regulations including but not limited to NERC CIP, SOX, FERC, DOE 10CFR 810, 10CFR73.54
+
+
+Effective participation and use of the Corrective Actions Program to ensure continuous improvement.
+
+
+Develop and mentor staff in meeting and exceeding within Entergy’s employee and leadership practices.
+
+
+
+
+
+
+
+
+Minimum education required of the position:
+
+
+Bachelor’s degree in Computer Science, Management Information Systems, Engineering or related discipline or equivalent experience
+
+
+Advanced degree preferred
+
+
+
+
+
+
+Minimum experience required of the position:
+
+
+11 to 15 years leading large scale, strategic IT Programs preferably in the Energy Industry
+
+
+6 to 10 years in managing budgets and financial reporting and managing direct, indirect, and outsourced resources
+
+
+
+
+
+
+Minimum knowledge, skills and abilities required of the position:
+
+
+Leading in a highly outsourced environment
+
+
+Supervisory experience (manager of cross-functional teams)
+
+
+Analytical and financial management skills
+
+
+IT Program and Project Management tools and methodologies
+
+
+Acquisition, installation, maintenance and management of networking equipment. Working knowledge of Network technologies, protocols and industry standards. Energy related regulations (SOX, HIPAA, NERC CIP, FERC, and NRC Nuclear Cyber (10 CFR 73.54)) OSHA, EPA, FCC
+
+
+Communication skills; ability to effectively present analytical data to a variety of technical and non-technical audiences
+
+
+Managing and reporting product and service performance in context of established service levels
+
+
+Vendor Management
+
+
+In-depth knowledge of Entergy’s Safety policies, procedures and practices
+
+
+Expert ability in the development of and adherence to policies and standards in all areas of network and technologies and services; development of procedures and work processes that comply with those policies and standards to ensure safe, effective, compliant work practices
+
+
+In-depth knowledge of Entergy’s Human Performance program policies, procedures
+
+
+
+
+
+
+
+
+Any certifications, licenses, etc. required for the position:
+
+
+Data Network Certifications
+
+
+ITIL (considered a plus)
+
+
+Program Management Professional (PMP or PRINCE2) (considered a plus)
+
+
+SCRUM certifications (considered a plus)
+
+
+Security Certifications (considered a plus)
+
+
+
+
+#li-mm1
+
+
+
+
+
+
+Primary Location:
+Louisiana-New Orleans
+
+
+Job Function
+
+
+: Information Technology
+
+
+FLSA Status
+
+
+: Professional
+
+
+
+
+Relocation Option:
+Level I
+
+
+Union description/code
+
+
+: NON BARGAINING UNIT-NBU
+
+
+Number of Openings
+
+
+: 1
+
+
+
+
+Req ID:
+96657
+
+
+Travel Percentage
+
+
+:Up to 25%
+___________________________________________________________________________________
+Job Title: Sr Operational Systems Engineer
+Company Title: Fluor Federal Petroleum Operations
+
+
+
+
+Assures site drawdown readiness through systems engineering analysis.
+1. Analysis of site hydraulic issues that pertain to the site.
+2. Conducts model analyses to determine vapor pressure impacts on crude oil movements.
+3. Provides technical input to cavern/equipment selection during drawdown.
+4. Assesses process system risks to ensure maintained within acceptable criteria.
+5. Analyzes system rotating equipment performance.
+6. Analyzes equipment or system failures and prepares Failure Analysis Reports.
+ Maintains the technical baseline and the SPR design basis.
+1. Functions as owner and makes revisions to the site Mechanical Operations Manuals.
+2. Functions as owner and makes revisions to the site P&IDs.
+3. Reviews and approves all site process changes.
+4. Operates and maintains site models for hydraulics, vapor pressure, and other appropriate models.
+5. Prepares and sponsors Engineering Change Proposals.
+Customer systems engineering support.
+1. Supports DOE Systems and Projects engineering by performing operational systems engineering analyses and studies for DOE.
+2. Provides day-to-day site systems engineering support.
+3. Provides systems engineering support to all directorates.
+Project Support
+ 1. Provides process engineering oriented design review to system changes.
+ 2. Provides system readiness feedback to readiness review for drawdown.
+ 3. Prepares test plans for new equipment or systems and participates in testing and acceptance.
+Job Opening and Closing Dates
+ 4/30/2020 - 5/10/2020
+
+
+
+
+ Qualifications
+ REQUIRED: Bachelor?s degree in Chemical, Petroleum or Mechanical Engineering with a minimum of 7 years of progressive engineering experience in oil/gas production/processing, petrochemical industry and /or plant engineering. Candidates must have demonstrated experience in conducting complex mechanical engineering analysis as the position serves as a ?technical expert? in a designated engineering function and may serve as a technical lead on team projects. Strong written and oral communication skills required to develop presentations, analytical reports, technical correspondence, and be a team lead.
+DESIRED: Professional Engineer with experience in the chemical or petroleum industries in process engineering. Experience with design and operation of heat exchangers, process piping, valves, pipeline systems and pumping equipment.
+Experience with HYSYS, UNISIM or similar process simulation software.
+CERTIFICATIONS, LICENSES: Preference is given to candidates who hold an LA or TX Professional Engineer license.
+___________________________________________________________________________________
+Job Title: IT Support Member
+Company Title: Diabetes Management and Supplies
+
+
+
+
+A fast growing Medical Sales Company is seeking an IT Team Member to join our company. This position will be supporting our Operations Director. The position consists of setting up and terminating new hires in our e-mail system, troubleshooting network problems, working with and providing support with our telephone system, moving team members items when movements occur, supporting our security system and more. This is not a programming level position and involves troubleshooting and basic IT work.
+Please apply with a resume, we are an equal opportunity employer.
+
+
+Job Type: Full-time
+
+
+Salary: $12.00 to $15.00 /hour
+
+
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+Retirement plan
+Paid time off
+
+
+Schedule:
+Monday to Friday
+Day shift
+
+
+Company's website:
+www.diabetesms.com
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+Job Title: Computer / IT Network TECHNICIAN
+Company Title: TRI-LINK INTELLIGENCE, INC
+
+
+
+
+NOW HIRING COMPUTER/IT NETWORK TECHNICIANS
+We are hiring computer/IT Network technicians. Applicants must be dependable, a team player, have a positive attitude and work well independently. Pay is negotiable depending on experience. Must have your own truck, van or SUV with own tools and ladders.We provide excellent services for computer networks, software installation, computer repair, and maintaining clients networks.
+
+
+Required:
+High school diploma or GED
+Fundamental computer network and electronics skills and knowledge
+Able to lift at least 70 pounds, maneuver into small spaces and work in elevated work environments
+Valid state driver’s license
+Pass a Background and Drug Screening.
+Must have your own truck, van or SUV with own tools and ladders.
+
+
+Preferred:
+Previous computer / IT network experience
+Willing to work weekends
+
+
+Pay Frequency:
+Weekly
+
+
+This Job Is:
+Open to applicants who do not have a high school diploma/GED
+A good fit for applicants with gaps in their resume, or who have been out of the workforce for the past 6 months or more
+A job for which all ages, including older job seekers, are encouraged to apply
+Open to applicants who do not have a college diploma
+
+
+Schedule:
+Monday to Saturday 8 AM-6 PM
+
+
+Job Type: Full-time
+
+
+Experience:
+
+
+IT/Networking : 1 year (Preferred)
+
+
+Required travel:
+100% (Required)
+
+
+Application Question:
+For this position you must have your own Van, Truck, or SUV with the ability to install a ladder rack to carry a ladder. If you meet this qualification click YES if you do not meet this qualification click NO."
+
+
+Additional Compensation:
+Bonuses
+
+
+Work Location:
+Multiple locations
+
+
+Benefits:
+Health insurance
+Dental insurance
+
+
+Schedule:
+Monday to Friday
+Weekends required
+Day shift
+
+
+Company's website:
+
+
+https://www.trilinkintelligence.com/our-services
+
+
+Benefit Conditions:
+Only full-time employees eligible
+
+
+Work Remotely:
+Temporarily due to COVID-19
+___________________________________________________________________________________
+Job Title: Best Network Technician Ever
+Company Title: Ener Systems
+
+
+
+
+If you are a Network Engineer who is bored with your current job because your skills and talents are being underutilized, underappreciated, and unchallenged, then read on.
+
+
+We are looking for an ambitious, hard-working Network Engineer who can own the responsibility of providing first-class technical support to our clients.
+
+
+
+
+
+
+As a key player on our team, you will have the opportunity to:
+
+
+
+
+Work with a variety of different clients and projects so you’re never bored.
+
+
+Receive ongoing training on new technologies as they emerge.
+
+
+Be an integral part of a dynamic, fast-growing team of “A” players
+
+
+Earn the respect and money you deserve.
+
+
+
+
+However, we are not desperate to fill this position and are willing to wait to find the right person. The purpose of this ad is to “screen” the thousands of mediocre IT people to find the one person who would be the best addition to our company.
+
+
+
+
+
+
+There Are 10 Characteristics That We Are Looking For:
+
+
+
+
+
+
+If You Do Not Meet Them All, Don’t Bother To Apply:
+
+
+
+
+You must have at least 3 years of Microsoft Windows System Administration experience.
+
+
+You must be able to provide references from past employers who will vouch for your work ethic, experience and integrity.
+
+
+You must be intensely serious about your desire to be part of a winning team and be willing to work hard, learn fast, and grow with us.
+
+
+You must be passionate about delivering outstanding service to our customers.
+
+
+You must be able to thrive in a fast-paced environment.
+
+
+You must understand that fixing the technical issues is only half the job, the other half is fixing the customer to make sure they are absolutely ecstatic about the work you just completed.
+
+
+You must have a keen desire to learn and demonstrate a great deal of “natural curiosity.”
+
+
+You must be willing to take responsibility for your mistakes, learn from them, and move on. I don’t want anyone with a “victim” mentality that constantly blames other people, lack of time, or anything else for their lack of success.
+
+
+You must be willing to ACTIVELY participate in new training to improve your skills and success on the job. I do NOT want passive team members.
+
+
+You must be a pleasant, positive person. I only want to work with people who are fun to work with and stimulating to our group.
+
+
+
+
+If you meet the above criteria, then we suggest you apply now and take the first step towards the most exciting career change you’ll ever make.
+
+
+Are you an Independent I.T. Consultant looking for additional work opportunities? Inquiries are welcomed.
+
+
+Compensation is dependent on experience.
+
+
+Ener Systems is always on the lookout for motivated, talented professionals. All resumes and employment-related inquires can be sent to humanresources@enersystems.com.
+___________________________________________________________________________________
+Job Title: IT Sales Executive
+Company Title: Ener Systems
+
+
+
+
+IT Sales Professional Wanted
+
+
+Ener Systems is seeking a motivated, passionate, Sales Professional with a positive attitude and willingness to work hard to achieve their career and personal financial goals – while helping our clients understand how to obtain World Class business IT results for their business through the application of our products and services.
+
+
+Why Should You Join the Ener Systems Team? It’s simple!
+
+
+Become part of an Awesome, World Class organization with an outstanding client base.
+
+
+High earning potential, outstanding compensation and benefits plan.
+
+
+No other company can replicate our process and distinct methods of delivering IT services.
+
+
+Our culture is built on the foundation of integrity, teamwork, passion for exceeding customer expectations, a sense of urgency, strong work ethic, and having fun.
+
+
+We have developed a World Class Sales Process with continuous training, coaching and accountability to help meet your goals!
+
+
+We have a lead generation process to help you meet and achieve your sales goals.
+
+
+Position Summary
+
+
+The IT Sales Executive will travel to and attend face to face meetings with prospective clients in our target market throughout the Greater New Orleans area (north and south shore). The Sales Executive will meet with prospective clients Executives, business leaders and IT decision makers at all levels of the organization. The goals of each meeting are to build business relationships and understand each client’s business and technology needs. The Sales Executive will be responsible for continually identifying opportunity and closing new business, by positioning Ener Systems Services where applicable
+
+
+This highly-visible key team member will also be responsible for making new dials each week and working closely with an Inside Sales team member to ensure the ultimate attainment of sales goals and sales process success. In addition, the Sales Executive will be responsible for continuously building and fostering a strong center of influence through networking that will provide a consistent pipeline of qualified leads by generating interest in our company’s products and services.
+
+
+Lastly, the Sales Executive will attain a high level of success and results through a structured sales program with training activities, coaching and accountability to meet and exceed daily, weekly and monthly sales activity and revenue goals.
+
+
+Position Requirements
+
+
+2 + years of continuous business to business outside sales experience
+
+
+Understanding of and practical application of a sales process
+
+
+Experience with meeting and exceeding a sales quota
+
+
+Comfortable presenting at all levels of an organization
+
+
+4 year college degree preferred
+
+
+Managed Services, telecom or recurring revenue sales experience preferred but not required
+
+
+Ener Systems is always on the lookout for motivated, talented professionals. All resumes and employment-related inquires can be sent to humanresources@enersystems.com.
+___________________________________________________________________________________
+Job Title: SAP ISU/ Billing Management Consultant
+Company Title: SinglePoint Solutions, Inc
+
+
+
+
+
+
+Job Title: SAP ISU/Billing Management Consultant
+
+
+Location: New Orleans, LA
+
+
+Duration: 48 Months
+
+
+Job Description:
+Consultant should have more than 10 years of total IT/SAP experience.
+Minimum of 3-5 years of experience implementing IS-U/CR & B-Billing with minimum of 1 Implementation and 2-3 Support Projects.
+Should have configuration experience in the Billing & Invoicing area.
+Experience with working on Real Time Pricing Interfaces, ToU and Interval Billing.
+Good understanding of regulated and de-regulated energy market scenarios.
+
+
+Job Types: Full-time, Contract
+
+
+Salary: $60.00 to $80.00 /hour
+
+
+Experience:
+
+
+ISU: 5 years (Preferred)
+
+
+Configuration: 3 years (Preferred)
+
+
+Billing: 5 years (Preferred)
+
+
+Contract Length:
+More than 1 year
+
+
+Benefits:
+None
+
+
+Schedule:
+Monday to Friday
+___________________________________________________________________________________
+Job Title: Advisor Security and Risk Management Consultant
+Company Title: DXC
+
+
+
+
+
+
+Job Description:
+
+
+Advisor Security and Risk Management Consultant
+
+
+
+
+A security professional who leads or as a member of a team, assists clients in the implementation of business and technology solutions and conducts assessments in conformance with various regulations and standards. Also serves clients as a subject matter expert in general areas of security as well as one or more of the following practice areas:
+Governance and Risk Compliance
+– the consultant will assess and document client compliance and risk posture as they relate to information assets.
+Payment Card Industry (PCI)
+– the consultant will deliver PCI readiness assessments and strategic consulting on a variety of PCI related client engagements.
+Vulnerability Management
+– the consultant will create and oversee (as an active participant) vulnerability assessments to identify risk exposure in deployed solutions, policies, and procedures with a focus on identifying critical vulnerabilities on client’s external and internal networks.
+Applies advanced subject matter knowledge to complex business issues and is regarded as a subject matter expert.
+Frequently contributes to the development of new ideas and methods.
+Works on complex problems / projects where analysis of situations or data requires an in-depth evaluation of multiple factors.
+Exercises significant independent judgment within broadly defined policies and practices to determine best method for accomplishing work and achieving objectives.
+Leads and / or provides expertise to functional project teams and may participate in cross-functional initiatives.
+May provide mentoring and guidance to lower level employees.
+Acts as an expert providing direction and guidance to process improvements and establishing policies.
+Frequently represents the organization to external customers/clients.
+Engages in peer-to-peer dialogue with clients about their industry and their situation.
+Opens new discussions and builds new opportunities with clients.
+Constructs the overall transformation roadmap for the client.
+Builds strong rapport with clients creating respect and trust.
+Opens new relationship opportunities within the client environment.
+Understands how to construct and gain agreement for business cases.
+Selects appropriate tools available to develop and validate business cases including lifetime costing.
+Shapes and influences client attitudes to outcomes and key benefits for both the client and DXC.
+Plan and lead delivery of workshops and facilitated client events.
+Develop MOC work streams and lead the implementation of MOC activities acting as the change consultant for the client.
+Ability to propose solutions, addressing client business issues and objectives using a combination of DXC standardized and customized services.
+Shapes approach to identifying and managing risks and assumptions and for realizing benefits at a program level.
+Creates proposal describing the DXC solution and the associated value proposition, ensuring knowledge capture sessions are arranged and executed.
+Determine the required services and contributions for the practice and ensure there is a resource plan in place to meet these demands.
+Build relationships and alignment between other partners and groups within DXC.
+Assist the other practices and leadership in planning activities for the practices.
+Prepare to oversee the development, delivery and maintenance of business and technology solutions, to includes the creation and or update of policies, standards, procedures, and guidelines for clients.
+Clearly able to brief senior executives on threats in their current environment and industry.
+Remain up to date with the latest security threats and trends.
+Willing to travel up to 85%.
+
+
+
+
+Qualifications:
+Bachelor’s degree in computer science or related field.
+5 years of experience in commercial or public sector.
+Strong communication and presentation skills.
+Be a credible leader, manager and a strong team player.
+Professional industry certifications, such as, CISSP and CISA.
+Valid driver's license.
+___________________________________________________________________________________
+Job Title: VMware Admin
+Company Title: Rouses Markets
+
+
+
+
+
+
+REQUIRED:  * At least six (3) years of hands-on VMware experience installing, configuring, and administrating large complex VMware environments.
+· Hands-on experience with vSphere and vCenter consolidation and upgrades from 6.0 to 6.7
+· Familiarity with VM features for HA, including DRS, SRM, and vMotion.
+· Ability to analyze logs, track and resolve complex using tools including vROPs, Teradici and others.
+· Hands-on subject matter expertise troubleshooting VMware Horizon 7.x technical matters.
+· Demonstrated knowledge of the VDI image build process and management.
+· Familiarity with scripting and automation to streamline operations.
+· Understanding of Windows Active Directory.
+
+
+Job Type: Full-time
+
+
+Experience:
+
+
+VMWare: 3 years (Preferred)
+
+
+Location:
+New Orleans, LA 70113 (Preferred)
+
+
+Work Location:
+One location
+
+
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+Retirement plan
+
+
+This Job Is Ideal for Someone Who Is:
+Dependable -- more reliable than spontaneous
+People-oriented -- enjoys interacting with people and working on group projects
+Detail-oriented -- would rather focus on the details of work than the bigger picture
+
+
+Schedule:
+Monday to Friday
+On call
+
+
+Company's website:
+
+
+https://www.rouses.com/
+
+
+Benefit Conditions:
+Waiting period may apply
+
+
+Work Remotely:
+Temporarily due to COVID-19
+___________________________________________________________________________________
+Job Title: Website Administrator
+Company Title: Ideal Appliance Parts Inc.
+
+
+
+
+Entry level position
+Primary scope of this position is to continue to build our company website;
+-Daily entering of parts and illustrations
+-Daily general maintenance of the website
+-working directly with outside sales staff and customers and guiding them through the process of logging onto their website accounts, setup their website accounts and setup customer fav baskets etc Verifying special customer prices etc.
+-make changes, revisions to the website which may involve marketing campaigns, branch incentives,company specials etc.
+-Communicating with Ideal Appliance Internet/website ordering department with regard to all facets of the Website and Internet Business , including any and all issues with website, ordering issues , communicate with the website developer when needed and our POS (SBC/Autologue) company on any issues related to website.
+-Candidate must have
+-general knowledge and experience in website development and administration
+-excellent customer service skills
+-excellent communications skills
+-detail oriented
+-excellent time management
+We do train and for the right person this position has tremendous growth potential.
+We have excellent benefits package;
+Health Insurance
+Vision Insurance
+Group Life Insurance
+Simple IRA plan
+Dental Insurance
+Paid Holidays / Vacation /Sick days
+
+
+Job Type: Full-time
+
+
+Salary: $12.00 to $15.00 /hour
+
+
+Experience:
+
+
+website administration: 2 years (Required)
+
+
+Work Location:
+One location
+
+
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+Retirement plan
+Paid time off
+
+
+Schedule:
+Monday to Friday
+No weekends
+8 hour shift
+
+
+Company's website:
+idealappliance.com
+
+
+Benefit Conditions:
+Waiting period may apply
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+#############################################
+CURRENT SECTOR == AUTOMOTIVE
+#############################################
+Job Title: Lube Tech
+Company Title: Take 5 Oil Change
+
+
+
+
+Job Title
+
+
+: Lube Technician
+
+
+Company
+
+
+: Take 5 Oil Change
+
+
+
+
+Lube Technician Position Overview:
+
+
+Take 5 Oil Change is looking for entry-level candidates who are interested in starting their automotive career! Lube Technicians ensure that all customer vehicles are serviced properly, company procedures and policies are followed and every customer is treated with the utmost courtesy at all times. Provide exceptional customer service and technical aptitude relating to changing oil and performing minor vehicle maintenance for our customers in a fast-paced retail environment.
+
+
+Responsibilities
+
+
+
+
+Courtesy Position: Wash Windshield and Adjust Tire Pressure
+
+
+Hood Position: Inspect and top off fluids (except brake fluid) according to manufacturers' recommendations. Retrieves and adds oil
+
+
+Pit Position: Drain motor oil, change oil filter, grease chassis fittings
+
+
+Write Up Position: Assist the customer in selecting oil type and other services, process payment for services performed.
+Perform coolant exchanges and transmission drain & fill services
+Hold a sign to attract customers periodically throughout the day
+Assist the Assistant Store Manager and Store Manager during the opening and closing procedures
+Restock and maintain inventory levels on the floor
+Maintain shop, office, and bathroom cleanliness
+Awareness of car conditions
+
+
+Qualifications
+
+
+Outgoing and positive attitude
+Motivated, energetic, and customer-focused
+Pass a pre-employment background check
+Basic computer skills. Ability to use a keyboard and a mouse to correctly collect and enter information into a point of sale system.
+Exceptional customer service skills
+
+
+Where applicable: Ability to obtain a State Issued Inspector’s License
+Must have reliable transportation
+
+
+
+
+Physical Requirements
+
+
+Must be able to lift up to fifty (50) pounds
+While on the job, employees must be able to walk, stand, bend, stoop, twist, etc for extended periods of time
+Ability to work in all weather conditions
+Requires use of hands to perform activities involving holding, grasping, pulling and turning
+
+
+IND2
+___________________________________________________________________________________
+Job Title: Experienced Automotive Mechanic
+Company Title: S & I Auto Repair Center
+
+
+
+
+1 I Im looking for a full time mechanic that work on engines and transmission
+2 Remove and replace and to do head gasket and intak gaskets and full tune up and remove and replace transmission and engine and transmission rebuild is a optional
+3 car diagnostic and electric for example a car cames in with with electric problems no crank no start or with crank but no start to check it and fix it
+4 oil changs tire plugs tire patchs wheel aligments and suspension work brake jobs and more
+5 if no experience and no tools no prablom we can train and provide tools
+6 call and ask for Mr. M at 5042014272 when ready to work
+Must be reliable and ready to work. Must have some experience preferably 6 months-1 year. And Tools majer mechanic and miner work motoras transmission starters alternators a/c and electric
+Call me at 5042014272 ask for Mr. M if your ready
+
+
+Tipo de puesto: Tiempo completo
+___________________________________________________________________________________
+Job Title: Dual Luxury Franchise Service Manager
+Company Title: Paretti Jaguar Land Rover of New Orleans
+
+
+
+
+Dual Luxury Franchise Service Manager
+Greater New Orleans Area Jaguar Land Rover Dealer is currently seeking an
+experienced
+
+
+Service Manager
+to bring the Service Department at our luxury dual franchise dealership to the next level in efficiency, CSI, and profitability. Facilities are undergoing renovations for update and upgrades. The successful candidate must possess excellent managerial skills, have a proven service track record, a strong desire to drive dealership profitability and exceptional customer service skills.
+
+
+RESPONSIBILITIES:
+Develop, enforce, and evolve processes to provide timely, quality, and consistent service performance with a focus on customer satisfaction and vehicle safety.
+Ensure all service work is performed timely and in compliance with franchise requirements regarding documentation, quality and volumes.
+Focus on creating world class customer service to create lifelong customers
+Maintain constant communication with customers on their vehicle status
+Resolve all customer complaints in a courteous, honest, and prompt manner
+Train, motivate, review, and manage staff performance in a face paced environment
+Establish and achieve profit goals by meeting sales targets, hours, capacity goals, etc.
+Remain well informed on all recalls, vehicle changes, factory bulletins, etc.
+Attend and complete regular training provided by dealership and factory
+Other responsibilities as needed
+
+
+REQUIREMENTS:
+Jaguar Land Rover franchise experience strongly preferred
+Recent experience with CDK Service applications strongly preferred
+Customer focused with excellent customer relations ability
+Ability to develop and implement service department processes
+Management skills to motivate, develop, and discipline staff
+Highly organized with the ability to multitask and manage support staff
+Results oriented with the drive and desire to succeed
+
+
+BENEFITS:
+Excellent Earnings Opportunity with aggressive commission structure
+Paid Vacation and Holidays — closed Sundays and most Saturdays
+Employee Discounts — special pricing on vehicle lease programs, service, & parts
+Insurance Benefits — BCBS Health, dental, vision, life, and disability offerings
+Established Company — over 50 years of success in the business
+Equal Opportunity Employer
+
+
+Job Type: Full-time
+
+
+Experience:
+
+
+CDK Service: 1 year (Required)
+
+
+Automotive Service Manager: 3 years (Required)
+
+
+Education:
+High school or equivalent (Required)
+
+
+Location:
+Metairie, LA 70002 (Required)
+
+
+License:
+Clean Diver's (Required)
+
+
+Work authorization:
+United States (Required)
+
+
+Working Days:
+Saturday (Preferred)
+
+
+Additional Compensation:
+Commission
+Bonuses
+Store Discounts
+
+
+Work Location:
+One location
+
+
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+Retirement plan
+Paid time off
+Professional development assistance
+
+
+This Job Is:
+A good fit for applicants with gaps in their resume, or who have been out of the workforce for the past 6 months or more
+Open to applicants who do not have a college diploma
+
+
+Schedule:
+Monday to Friday
+Day shift
+Overtime
+10 hour shift
+
+
+Company's website:
+
+
+https://www.paretti.com
+
+
+Benefit Conditions:
+Only full-time employees eligible
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+Job Title: Auto Repair Mechanic / Technician (5+ Years Exp. Req.)
+Company Title: Pro-Auto Car Repair, Slidell, La.
+
+
+
+
+Well established locally owned and operated auto repair shop in Slidell has an immediate opening for an Auto Mechanic / Auto Repair Technician. Must have at least 10 years experience as a complete auto repair technician and engine and transmission swap and mechanical exp. (SWAPS ONLY NO internal engine or transmission repairs) Auto Mechanics / Technicians should have ALL the the tools necessary for complete auto repair work. Long term position open w/ benefits. Super cool atmosphere and co-workers. Paid Salary and get paid more for Saturdays (optional) 1684 Old Spanish Trail Slidell, La 70458
+www.professionalautoengines.com
+
+
+Job Type: Full-time
+
+
+Salary: $800.00 to $1,200.00 /week
+
+
+Experience:
+
+
+In Shop Full Fledged Repair: 5 years (Required)
+
+
+Additional Compensation:
+Bonuses
+
+
+Benefits:
+None
+
+
+Vehicle Type:
+Cars and light trucks
+
+
+Shop Type:
+Independent
+
+
+Schedule:
+Monday to Friday
+No weekends
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+Job Title: Service and Parts Director
+Company Title: Southern United Auto Group
+
+
+
+
+HUGE, ONCE IN A LIFETIME OPPORTUNITY!!!
+NEW LOCATION/ STATE OF THE ART FACILITY WILL BE A GAME CHANGER!!
+One of the fastest growing, privately held dealer groups in the Southern United States is currently looking for a Service and Parts Director for a large domestic franchise. Incredible facility with state-of-the art equipment and air- conditioned shop located in Louisiana. Seeking high energy candidate with a proven track record in customer service/ retention, increased RO counts, profit/ expense management as well as recruiting and development.
+
+
+What we offer for you:
+Aggressive & Rewarding Compensation Package
+Health Insurance
+Career Growth Potential
+State-of-the-art facilities
+Cutting edge technology
+Employee Purchase Program
+
+
+Career advancement opportunities: we promote from within.
+Continued education, hands on and web-based training.
+Clean and professional work environment.
+Paid Weekly
+Paid Vacation
+
+
+What we expect from you:
+Establishing a clear vision along with setting goals for the Service Department to achieve targeted performance.
+Engaging and motivating the team to achieve key goals (KPIs), performance expectations by adhering to Group processes and best practices
+Attracting, developing and retaining the very best talent.
+Creating a truly exceptional customer experience which will drive and solidify customer loyalty.
+Ensuring the Service area is clean and retail-ready with proper displays, point-of-purchase information and visible competitive pricing.
+Analyzing the business to determine shortfalls and developing action plans to improve performance.
+Driving the business through a high-level of involvement in the day-to-day operations.
+Understand and comply with federal, state and local regulations that affect service and parts operations, such as hazardous waste disposal, OSHA right-to-know act, etc.
+Serve as liaison with the factory representatives and maintain a strong relationship with the factory
+
+
+The Your performance will be evaluated based on:
+Targeted sales and profit
+Targeted expense management
+Targeted Associate retention
+Targeted Customer Satisfaction Index
+What are the requirements for this job?
+High School diploma or equivalent
+Service and/or Parts Management experience
+Ability to set and achieve targeted goals
+Proven ability to attract, develop and retain great talent
+Strong financial and business acumen and the ability to drive revenue and profitability
+Excellent organization skills
+Strong verbal and written communication skills
+Organization and follow-up skills
+Experience and desire to work with technology
+Must be results-driven, highly energized, customer service-oriented
+LEADER & Team player
+Stamina to perform in a fast-paced environment
+Must have a passion for taking care of customers
+Valid driver’s license and ability to pass MVR, background check, and drug screen
+Compensation is commensurate with experience.
+
+
+Job Type: Full-time
+
+
+Experience:
+
+
+Service and Parts Director: 3 years (Required)
+
+
+License:
+Driver's License (Required)
+___________________________________________________________________________________
+Job Title: Sales, Client Advisor, Honda, $2K/month Salary Plus=$75K - $100K/yr
+Company Title: Premier Automotive
+
+
+
+
+Product Specialist / Client Advisor
+Hiring Now!
+SALARY + AGGRESSIVE Bonuses!
+$75K - $125K Income & Excellent Benefits!
+
+
+$40K - $60K Avg. First Year if New to Auto Sales
+
+
+We Train for Success
+
+
+
+
+Premier Honda is seeking to hire FIVE energetic and motivated Product Specialists.
+You will Exceed customer's expectations from test drive to delivery with Excellent Training and Support from our Management Team!
+Automotive sales is a Lucrative Career!
+The effort you put in equals the reward you receive. Honda is a top, sought after brand and practically sells itself!
+
+
+
+
+We offer a Fantastic pay plan of $2K/month SALARY with AGGRESSIVE unit BONUSES. We are family-owned and promote an atmosphere of honesty, integrity, and respect.
+Apply now for this great career opportunity and join our team!
+
+
+Premier is an established, successful dealer group with over 21 stores in 5 states nationwide and a great place to work! We represent top brands such as Honda, Toyota, Nissan, Kia, Dodge, Chrysler, Jeep and Fiat. Premier is actively involved in giving back to our community in a HUGE way with our “Giving Hope Foundation”.
+
+
+
+
+
+
+
+
+
+
+We offer:
+
+
+$2K/Month SALARY with Aggressive Unit Bonuses!
+$40K - $60K Average First Year Income if New to Auto Sales
+$75K - $125K Income Potential for Experienced Product Specialists
+Excellent PAID training
+Medical, dental and vision insurance
+401(k) investment plan
+with company match
+Paid time off
+5-day work week and closed Sundays
+State-of-the-Art Facility
+'Manager in Training' program
+Career advancement opportunitites!
+Participate in Giving Hope Community Service days by building homes with Convoy of Hope, cooking in local food kitchens, spending time with Boys and Girls Clubs, and much more.
+Employee programs for referral bonus, vehicle acquisition, and automotive purchases.
+A positive and professional work environment.
+
+
+EXPERIENCE THE PREMIER DIFFERENCE
+
+
+Click on the graphic, or link below to view the catalog.
+
+
+
+
+
+
+
+
+http://online.flipbuilder.com/vvtk/fgvl/mobile/index.html#p=1
+
+
+
+
+
+
+Responsibilities - Product Specialist / Sales Consultant:
+Greet customers and identify the type of vehicle that meets their needs
+Explain features and demonstrate operation on test drives
+Lead customers through proven selling steps that close deals
+Present pricing and explain financing options
+Follow up with existing customers to encourage repeat and referral business
+Prospect to generate a stream of new customers
+Ensure every customer has a premium buying experience and become 'raving fans'.
+
+
+
+
+Qualifications - Product Specialist / Sales Consultant:
+Sales experience in any industry is preferred
+Automotive sales experience is a plus
+Energetic with a strong work ethic and motivated to succeed
+Excellent communication and customer service skills
+Thrives in a fast-paced environment
+A positive attitude and professional appearance
+Must be able to learn and be led in a successful, structured system that promotes personal growth, goal setting, and professionalism
+Valid driver's license and clean driving record
+Pass pre-employment background check, MVR, and drug screen.
+
+
+We are an equal opportunity employer and prohibit discrimination/harassment, without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+___________________________________________________________________________________
+
+
+Company Description:
+
+
+Crown Equipment Corporation is a leading innovator in world-class forklift and material handling equipment and technology. As one of the world’s largest lift truck manufacturers, we are committed to providing the customer with the safest, most efficient and ergonomic lift truck possible to lower their total cost of ownership.
+
+
+PARTS SUPERVISOR
+
+
+
+
+
+
+Job Responsibilities:
+
+
+Conduct meetings with parts personnel to coordinate activities
+Set and review parts inventory levels, monitor overstocked and understocked parts, and assist with periodic return of overstocked items to corporate office
+May oversee parts fleet vehicle maintenance
+May review and approve vendor invoices
+Conduct and participate in parts strategy meetings, including assisting with account strategy
+Maintain direct contact with current and prospective customers at end user locations, participate in product demonstrations, and address customer service issues
+Select, train, develop, and counsel direct reports
+Assist manager with budget preparation
+
+
+
+
+
+
+Qualifications:
+
+
+High school diploma or equivalent
+Good verbal communication, written communication, interpersonal, organizational, numerical perception, and computer skills
+Ability to lift 50 lbs.
+Valid driver's license and good driving record
+Preferred qualifications include associate degree and five to seven years of experience in parts distribution, inventory control, warehouse management, lift truck industry, or automotive industry
+
+
+
+
+
+
+Work Authorization:
+
+
+Crown will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas or who need sponsorship for work authorization now or in the future, are not eligible for hire.
+No agency calls please.
+
+
+
+
+
+
+Compensation and Benefits:
+
+
+Crown offers an excellent wage and benefits package for full-time employees including Health/Dental/Vision/Prescription Drug Plan, Flexible Benefits Plan, 401K Retirement Savings Plan, Life and Disability Benefits, Paid Holidays, Paid Vacation, Tuition Reimbursement, and much more.
+EO/AA Employer Minorities/Females/Protected Veterans/Disabled
+___________________________________________________________________________________
+Job Title: Customer Service Representative
+Company Title: U-Haul
+
+
+
+
+
+
+Location:
+
+
+3800 N Causeway Blvd, Metairie, Louisiana 70002 United States of America
+
+
+Are you an enthusiastic, highly motivated person that would love to start your career in the retail industry with U-Haul?
+
+
+If you are looking for an excellent opportunity that will allow you to grow in an exciting work place; look no further.
+
+
+U-Haul is growing with more than 1700 Moving and Storage locations in the U.S. and Canada, it’s no wonder our company has been an excellent source of career and personal growth opportunities for more than 70 years!
+
+
+We are seeking High Energy, Positive individuals that like to make customers smile!
+
+
+In this role you will be part of a driven team and working alongside with some of the top managers in our industry. As a Customer Service Representative you will enjoy flexible scheduling around school, sports and family life! You will work with other team members who have a similar passion for working with customers and making their day. You will be a part of a team that gives back to your community and environment! Our associates receive opportunities for growth and advancement and can be promoted into Assistant Manager and General Management positions!
+
+
+U-Haul meet our customers’ needs and demands. U-Haul’s needs for Customer Service Representatives are significantly greater on evenings, weekends, and holidays.
+
+
+
+
+
+
+Day to day duties of a Customer Service Representative:
+
+
+As a Customer Service Representative you will interface with U-Haul customers to identify what they are looking for so that you can recommend the best moving supplies or storage solutions for their moving needs. A Customer Service Representative will assist customers inside the U-Haul Center by educating them on our products and services, answering questions, and preparing rental invoices. Once properly trained, Customer Service Representatives may also assist customers outside on the lot as well by installing trailer hitches and light wiring harnesses on customer's vehicles, ensuring vehicle fluid levels are properly filled, performing clean-up of trucks, trailers, and other rental items, and accepting equipment returned from rental.
+
+
+
+
+
+
+Primary responsibilities include:
+
+
+
+
+Interact with our guests in a friendly, fast, courteous and efficient manner
+Attention to detail in order to promote positive customer interactions
+Hear and sense customer needs and keep your manager and fellow team members informed
+Complete training and maintain knowledge by participating in on-line and hands on educational and training opportunities
+Take pride in every aspect of your work and perform it with energy and enthusiasm
+Be a strong team player, with a commitment to continuous learning who provides high quality service to our customers
+Click on the link below to learn more about the job.
+
+
+
+
+https://www.youtube.com/embed/Z7bFOd9Y2ZU
+
+
+
+
+
+
+
+
+U-Haul offers:
+
+
+
+
+Very Competitive Pay
+Flexible Hours
+Military Veterans highly encouraged to apply
+Uniforms Provided
+
+
+
+
+Requirements:
+
+
+
+
+Valid driver’s license and the ability to maintain a good driving record to operate commercial motor vehicles
+Adhere to all local state and federal vehicular regulations while driving
+
+
+
+
+Education/Training:
+
+
+High School Diploma or equivalent
+
+
+
+
+
+
+Work Environment:
+
+
+The work involves moderate risks or discomforts which require special safety precautions, e.g., working around moving parts or machines, fumes or irritant chemicals. May be required to use protective clothing, or gear such as masks, goggles, gloves or shields.
+
+
+
+
+
+
+Physical Demands:
+
+
+The work requires some physical exertion such as long periods of standing, walking, recurring bending, crouching, stooping, stretching, reaching or similar activities, and lifting a minimum of 50 lbs assisted or unassisted.
+AMERCO and its family of companies, including U-Haul, have strived to create a culture of health and wellness. As of February 1, 2020, and consistent with applicable state law, no AMERCO or U-Haul company will hire individuals in states where it may lawfully decline to hire individuals who use nicotine products. (Alabama, Alaska, Arizona, Arkansas, Delaware, Florida, Georgia, Hawaii, Idaho, Iowa, Kansas, Maryland, Massachusetts, Michigan, Nebraska, Pennsylvania, Texas, Utah, Vermont, Virginia and Washington). This policy will not apply to team members hired before February 1, 2020.
+U-Haul is an equal opportunity employer. All applicants for employment will be considered without regard to race, color, religion, sex, national origin, physical or mental disability, veteran status, or any other basis protected by applicable federal, provincial, state or local law. Individual accommodations are available on requests for applicants taking part in all aspects of the selection process. Information obtained during this process will only be shared on a need to know basis.
+___________________________________________________________________________________
+Job Title: Reservation manager
+Company Title: U-Haul
+
+
+
+
+
+
+Location:
+
+
+6210 Chef Menteur Hwy, New Orleans, Louisiana 70126 United States of America
+
+
+U-Haul is looking for a personable, courteous, and professional Reservation Agents to work in our regional marketing office to assist customers with reserving U-Haul Trucks, Trailers, and other related rental equipment.
+
+
+
+
+
+
+Primary responsibilities include:
+
+
+
+
+Direct incoming U-Haul equipment to dealerships and moving centers to fill every confirmed reservation
+Assist in controlling rental equipment inventories within the assigned marketing company geographic area
+Monitor current competitor rates and maintain inventory records
+Update, review, and audit inventory reports
+Answer customer inquiries
+Click on the link below to learn more about the job.
+
+
+https://www.youtube.com/embed/tTwJ1l0PSwQ
+
+
+
+
+
+
+U-Haul offers:
+
+
+
+
+Very Competitive Pay
+Flexible Hours
+Military Veterans highly encouraged to apply
+Uniforms Provided
+
+
+
+
+
+
+Requirements:
+
+
+
+
+Must have impeccable customer service skills and be excellent communicators
+Working knowledge of office equipment such as multi-line phones, copiers, fax machines, and scanners
+Be detail-orientated and enjoy assisting others
+Basic computer proficiency
+Data entry experience
+
+
+
+
+Education/Training:
+
+
+High School Diploma or equivalent
+AMERCO and its family of companies, including U-Haul, have strived to create a culture of health and wellness. As of February 1, 2020, and consistent with applicable state law, no AMERCO or U-Haul company will hire individuals in states where it may lawfully decline to hire individuals who use nicotine products. (Alabama, Alaska, Arizona, Arkansas, Delaware, Florida, Georgia, Hawaii, Idaho, Iowa, Kansas, Maryland, Massachusetts, Michigan, Nebraska, Pennsylvania, Texas, Utah, Vermont, Virginia and Washington). This policy will not apply to team members hired before February 1, 2020.
+U-Haul is an equal opportunity employer. All applicants for employment will be considered without regard to race, color, religion, sex, national origin, physical or mental disability, veteran status, or any other basis protected by applicable federal, provincial, state or local law. Individual accommodations are available on requests for applicants taking part in all aspects of the selection process. Information obtained during this process will only be shared on a need to know basis.
+___________________________________________________________________________________
+Job Title: Lube Technician #13
+Company Title: Take 5 Oil Change
+
+
+
+
+Lube Technician Position Overview
+The Take 5 Family is hiring customer service maniacs!
+People person?
+Outgoing and positive attitude? We will
+train you
+how to change oil, replace wiper blades/air filters, fill air in tires, and other light maintenance services. Our employees are
+successful
+with all backgrounds and experience levels. Take 5 offers a stay-in-your-car hassle free oil change experience. The job is similar to restaurants or retail environments.
+What Employees Love about Take 5
+· The Pit Tech to President career path; Take 5 is committed to supporting your career goals. Over 90% of Shop Managers started as Lube Techs.
+· The family environment
+· Weekly pay
+
+
+· Benefits: Free oil changes, Paid time off, 401(k) company match
+· Employee contests
+· Standard benefits options (medical/dental/vision etc.)
+· Easy to transfer to locations across the country
+· Opportunity to meet new people every day
+· Community involvement
+· Learning new skills
+Good to Know Before You Start!
+· It might feel like you are studying for a test at the beginning. It’s important that all employees gain a strong knowledge of our oils and services.
+· Must maneuver in and out of a shallow 3’ deep pit used to position yourself safely under cars
+· You will walk, stand, bend, stoop, twist, etc. for extended periods of time and perform activities involving holding, grasping, pulling and turning
+· You may need to work in hot/cold weather conditions
+· Always be alert and aware of your surroundings
+· Must be able to lift up to fifty (50) pounds
+· Need to have reliable transportation
+What does a Lube Technician do?
+· Drain motor oil, change oil filter, grease chassis fittings
+· Wash windshield and adjust tire pressure
+· Inspect and top off fluids
+· Assist the customer in selecting oil type and other services
+· Process payment for services performed.
+· Perform coolant exchanges and transmission drain & fill services
+· Restock and maintain inventory levels on the floor
+· Maintain shop, office, and bathroom cleanliness
+
+
+Job Type: Full-time
+
+
+Work authorization:
+United States (Required)
+
+
+Additional Compensation:
+Commission
+Bonuses
+Store Discounts
+
+
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+Retirement plan
+Paid time off
+
+
+Pay Frequency:
+Weekly
+
+
+Schedule:
+Monday to Friday
+Weekends required
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+#############################################
+CURRENT SECTOR == MEDICAL
+#############################################
+Job Title: Medical Assistant - PRN
+Company Title: CorrectHealth, LLC
+
+
+
+
+CorrectHealth currently has an exciting (PRN) opportunity to join our growing team as a Medical Assistant in Gretna, LA!
+CorrectHealth is a multi-disciplinary medical organization that provides high quality, cost-effective, comprehensive healthcare inside the walls of correctional facilities. The foundation of our company was established by a group of talented ER professionals. Brick by brick, we have been building our company from the ground up. In doing so, we have developed the right way - the "Correct Way" as we like to call it - of providing correctional healthcare.
+Currently, CorrectHealth provides high quality, cost-effective, comprehensive healthcare services inside the walls of more than 40 correctional facilities throughout Georgia and Louisiana.
+
+
+
+
+Job Qualifications: High school diploma or GED equivalent. American Heart Association BLS. Medical Assistant certificate or diploma, military documentation from an approved program or have current EMT certification, CNA certification, PCT or proof of active enrollment in an approved school of nursing.
+
+
+
+
+Job Summary: Participates in the clinical aspect of the patient care with all members of the health care team and law enforcement. Performs duties under the supervision of a Paramedic, LPN, RN, HSA/HSC, Midlevel Provider and / or Physician in accordance with the rules and regulations of the state of employment. Possesses knowledge and ability to provide care to the Inmate population as well as respond to needs within the correctional environment. Maintains a professional attitude at all times.
+Licenses & Certifications
+Required
+BLS Certification
+Medical Assistant Training
+___________________________________________________________________________________
+Job Title: Medical Assistant Technician/Behavioral Health
+Company Title: TMS Center of New Orleans
+
+
+
+
+
+
+Part-time position, 7:50 AM-11:50 AM, M-F. We are looking for someone who is dependable, smart, conscientious and personable. We will provide training and certification to assist our physician in delivering an FDA approved, non-invasive procedure that treats depression (Transcranial Magnetic Stimulation). You will be under the supervision of a physician.
+A perfect part-time job for an MA or LPN, but all applicants meeting the below minimum requirements are welcome. LPCs and LMHCs are also encouraged to apply. RNs interested in a low stress environment are encouraged to apply. The current position holder is an RN who is retiring.
+
+
+Primary Responsibilities:
+Assist our physicians in delivering TMS (Transcranial Magnetic Stimulation)
+Providing educational information to interested patients
+Office administrative tasks such as scheduling appointments
+Interacting with insurance companies and billing as needed
+Contribute to a warm and caring environment in which our patients feel cared for
+Obtain prior authorizations from insurance companies
+
+
+Minimum Qualifications:
+Bachelor’s degree in the field of psychology, counseling, social work, neuroscience or a degree in a science based major OR a Medical Assistant or LPN or RN degree. LPCs and LMHCs are also encouraged to apply.
+Comfortable with basic computer skills
+
+
+Preferred Experience and Qualifications:
+Proficiency in Microsoft Office applications
+Insurance billing knowledge
+Medical or clinical experience
+MA, LPN, RN, LPC, LMHC
+
+
+Personality Qualities:
+Punctual
+Professional
+Good listener
+Ethical
+Optimistic
+Team player, step in when necessary in any aspect of the office practice
+
+
+Work Environment: Professional office environment; low stress. No weekends, no on-call.
+
+
+Position Type/Expected Hours of Work: This is a part-time position 7:50 AM – 11:50 PM, M-F.
+
+
+Location: New Orleans, LA
+
+
+Salary: Hourly rate based on candidate’s experience and goodness of fit. $17 – 21/hr.
+All candidates must provide a resume to apply. Serious inquiries only.
+
+
+Job Type: Part-time
+
+
+Salary: $17.00 to $21.00 /hour
+
+
+Education:
+Associate Degree (Required)
+
+
+Work authorization:
+United States (Required)
+
+
+Additional Compensation:
+Other forms
+
+
+Work Location:
+One location
+
+
+Benefits:
+Flexible schedule
+
+
+Schedule:
+Monday to Friday
+No weekends
+
+
+Work Remotely:
+Temporarily due to COVID-19
+___________________________________________________________________________________
+Job Title: Surgical Technologist
+Company Title: Omega Hospital
+
+
+
+
+Summary
+Assists surgeon during operative and invasive procedures. Ensures operating suite is adequately prepared for procedure. Monitors PAR level of all surgical instruments and supplies. Cleans and sterilizes all surgical instruments as needed. Participates in departmental staff meetings and performance improvement activities.
+Essential Functions
+Adapts procedures to meet the individual needs of patients for treatment.
+Prepares room in a timely manner with all anticipated instruments, sutures, supplies and equipment for each individual surgical procedure.
+Demonstrates competence in the care of specimens and accurately handles specimens at all times.
+Assists in positioning, prepping and draping of patients for surgical procedures.
+Accurately completes operating room counts (instruments, sponges, needles); follows proper procedure in the event of incorrect count; reports all discrepancies to Circulating RN and surgeon and/or corrects immediately.
+Maintains safe environment for patient, co-workers and self, per hospital policies and procedures.
+Checks all equipment/instruments needed, prior to each procedure to ensure proper functioning.
+Protects patient’s sensitivities and right to privacy.
+Follows aseptic technique, when opening sterile supplies and setting up procedures.
+Performs all aspects of patient care in an environment that optimizes patient safety and reduces the likelihood of medical/healthcare errors.
+Sets up, scrubs and prepares for procedures at least 15 minutes prior to scheduled time, unless otherwise directed by Circulating RN or DON.
+Performs services requiring technical or manual skills under the direction of Circulating RN.
+Always maintains an orderly and sterile instrument table for the purpose of efficiency; follows department standard set up.
+Cleans and prepares rooms between procedures and after last case; restocks supplies, when necessary and organizes effectively for end-of-case cleanup.
+Is fully responsible for care of instruments/equipment during intra/postoperative phase, including cleaning and processing of instruments.
+Follows written procedures for steam sterilization; knows responsibilities and the necessity for chemical and biological monitoring.
+Consults with other staff members, when in question or unfamiliar with equipment or procedure.
+Regularly collaborates with other members of the nursing team, in order to maintain equipment and supplies for surgical procedures.
+Makes decisions reflecting knowledge of assigned case and instruments and/or trays to be pulled for the procedure.
+Establishes and maintains effective communication and good working relationship with coworkers for the patient’s benefit.
+Performs other duties as assigned
+Required Education and Experience
+Highschool Diploma or equivalent (GED).
+1-year previous experience in an operating room.
+Certified Surgical Technologist (CST) preferred.
+Required Skills and Certifications
+Current BLS certification.
+EEO Statement
+
+
+Our company is committed to equal employment opportunity. We do not discriminate against employees or applicants for employment on any legally-recognized basis (“protected class”) including, but not limited to: race, color, religion, national origin, sex, pregnancy (including childbirth and related medical conditions), age, disability, citizenship status, status as a current or former uniformed servicemember, genetic information, or any other protected class under federal, state, or local law.
+
+
+Job Type: Full-time
+
+
+Experience:
+
+
+surgical technologist: 1 year (Required)
+
+
+operating room: 1 year (Preferred)
+
+
+License:
+BLS (Preferred)
+CST (Preferred)
+
+
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+Paid time off
+
+
+Schedule:
+Monday to Friday
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+Job Title: Medical Scribe
+Company Title: Confidential
+
+
+
+
+Are you interested in going to medical or Physician Assistant school and needing clinical experience? We are a busy orthopedic practice seeking a medical scribe. Experience preferred but not required. We will train the right person for this job!
+
+
+Job Type: Full-time
+
+
+Salary: $14.00 /hour
+
+
+Experience:
+
+
+medical scribing: 1 year (Preferred)
+
+
+Education:
+Bachelor's (Required)
+
+
+Work Location:
+One location
+
+
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+Retirement plan
+Paid time off
+
+
+Schedule:
+Monday to Friday
+No weekends
+Day shift
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+Job Title: Lab Technician, Screening and Mass spec based testing
+Company Title: Align Laboratories
+
+
+
+
+Are you interested in taking your chemistry lab testing career to the next level by joining a successful and growing laboratory that will provide the opportunity to work autonomously while enjoying a low cost of living?
+Align Laboratories group is currently seeking a lab tech / LCMS operator to join a startup laboratory in New Orleans, LA. This role will be responsible for handling sample screening and operating/troubleshooting Chemistry Analyzer and LCMS equipment.
+
+
+Other job duties include but are not limited to:
+Loads and runs samples through LCMS equipment
+Troubleshoots instrumentation as necessary.
+Initiates any corrective action in the lab on testing equipment as necessary.
+Provides an in-lab presence to coordinate with CSO/Lab Director and ensure that operations are run smoothly.
+You should apply if you have at least an associate's degree in Medical Lab Technology or similar and at least one year of previous clinical chemistry and LCMS operation. This is an excellent opportunity to join a solid business in a great location. Not only do you get to be part of a quickly growing lab, but the compensation and benefits are also very competitive.
+
+
+Basic Preferred Profile:
+Associates degree in Medical Lab Technology or above
+1+ years chemistry screening / LCMS operating experience highly preferred.
+
+
+Salary and Benefits:
+Base salary of $15-20/hr based on experience.
+Benefits available for full-time
+
+
+Job Type: Full-time
+
+
+Salary: $15.00 to $20.00 /hour
+
+
+Experience:
+
+
+Urine Drug Toxicology/chemistry: 2 years (Required)
+
+
+laboratory: 1 year (Preferred)
+
+
+LC-MS/MS: 1 year (Required)
+
+
+lab technician: 1 year (Preferred)
+
+
+lab: 1 year (Preferred)
+
+
+Education:
+Bachelor's (Preferred)
+
+
+License:
+LASBME CLS - T (Required)
+
+
+Work authorization:
+United States (Required)
+
+
+Work Location:
+One location
+
+
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+Paid time off
+Flexible schedule
+
+
+Schedule:
+Monday to Friday
+___________________________________________________________________________________
+Job Title: Housekeeping Attendant at Medical Facility
+Company Title: Sofian Property Services, LLC
+
+
+
+
+We are seeking individuals to work in a hospital setting doing housekeeping work.
+Also, looking to begin this work in the next couple of days and require any applicant to be able to begin immediately. Dress code would be a black or dark blue top and dark bottoms(no leggings or stretchy pants). It is a hospital setting so we are asking everyone to dress conservatively.
+
+
+Hours are from 7am-3:30pm or 3.00pm-11.30pm. Days available: Monday - Sunday.
+
+
+Job Type: Part-time
+
+
+Salary: $16.00 /hour
+
+
+Job Types: Full-time, Part-time, Contract
+
+
+Salary: $16.00 /hour
+
+
+Experience:
+
+
+housekeeping: 1 year (Required)
+
+
+hotel housekeeping: 1 year (Preferred)
+
+
+hotel: 1 year (Preferred)
+
+
+cleaning: 1 year (Required)
+
+
+hospitality: 1 year (Preferred)
+
+
+Work authorization:
+United States (Required)
+
+
+Shifts:
+Morning (Preferred)
+Evening (Preferred)
+
+
+Contract Renewal:
+Likely
+
+
+Work Location:
+One location
+
+
+Benefits:
+None
+
+
+Schedule:
+Monday to Friday
+Weekends required
+Holidays required
+Day shift
+Night shift
+8 hour shift
+On call
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+Job Title: JPHSA OFFICE SPECIALIST (Medical Certification Specialist 1/2)
+Company Title: State of Louisiana
+
+
+
+
+Supplemental Information
+
+
+Jefferson Parish Human Services Authority (JPHSA) is a Local Governing Entity (LGE) created by the Louisiana Legislature in 1989. JPHSA is responsible for the management and operation of behavioral health and developmental disability Services in Jefferson Parish. JPHSA provides fully integrated primary and behavioral healthcare services through its JeffCare program.
+
+
+The Developmental Disabilities Community Services (DDCS) Division provides services and supports to assist individuals with Intellectual/Developmental Disabilities (I/DD) to live in the least restrictive environments and to participate as fully as possible within their communities. The Medical Certification Specialist (JPHSA Office Specialist) works in DDCS under the direction of the Waiver Program Supervisor. The incumbent must have extensive knowledge of multiple Medicaid Waiver programs and provide technical assistance to private support coordination agencies, service provider agencies, and/or individuals and families. He/she must be familiar with and demonstrate knowledge of Federal and State guidelines for service delivery in these programs.
+
+
+He/she must possess proficiency with computer applications and a high level of communication and negotiation skills necessary to address the sensitive and personal nature of incidents and topics of discussion among families, individuals, and service agencies.
+
+
+
+
+50% Critical Incident Reporting (CIR)
+
+
+Coordinates tracking of CIRs according to the Louisiana Office for Citizens with Developmental Disabilities (OCDD) and Medicaid Waiver Guidelines such that each critical incident is resolved within 30 calendar days of the entry into the OCDD Statewide Incident Management System (SIMS).
+Requests and gathers additional information from support coordination and the service provider for timely closure of CIRs in SIMS.
+Coordinates reviews on all CIRs in SIMS, including the participation of waiver program staff, service coordination, individuals and families, and service providers to address resolution and prevention or potential reoccurrence of critical incidents.
+Submits completed CIRs for supervisory review and closure.
+Gathers quarterly CIR data for Human Services Accountability Plan (AP) reporting.
+Coordinates with the DDCS Quality Assurance Program Monitor in determining trends and patterns in critical incidents.
+
+
+
+
+15% Planning Review Committee (GPRC)
+Participates in a record review by the GPRC for waiver participants over Resource Allocation (RA).
+
+
+Assists Waiver Program staff with follow up by private support coordination, service provider(s), and/or the individual and family regarding recommendations that may aid individuals with coming within or closer to RA without risking health and safety.
+Maintains a RA tracking chart of waiver recipients.
+Assists Waiver Program staff with submitting reports to OCDD for any reduction in service hours as a result of RA collecting and submitting all documentation used to support the reduction in hours as outlined in the OCDD Wells Appeals Notice procedure.
+
+
+
+
+15% Interdisciplinary Service Coordination (ISC)
+
+
+Participates in ISC meetings with service providers, community resources, and support coordination to address behaviors, mental health issues, multiple CIRs, hospitalizations, and other identified concerns.
+Requests ISC meeting summaries from Waiver Program staff for submission to the OCDD Clinical Review Committee (CRC) when incidents meet the identified threshold for submission.
+
+
+
+
+5% Self-Direction Option
+Maintains detailed documentation for all requests relating to self-direction enrollment and finalization of transition from a traditional provider to a fiscal agent.
+
+
+Alerts OCDD if a person has barriers to participation in the Self-Direction Option.
+Conducts quarterly provider meetings for Self-Direction Option participants and their families.
+
+
+
+
+5% Assessments
+
+
+Uploads Supports Intensity Scale (SIS)/LA PLUS assessments to the SIS/LA PLUS database to receive a preliminary acuity level for planning and RA purposes.
+Assists Waiver Program staff (as requested) with review of the SIS/LA Plus assessments for consistency with the initial Comprehensive Plan of Care (CPOC) and to determine RA.
+Uploads approvable SIS/LA PLUS assessments to the SIS/LA PLUS database to receive a confirmed or final acuity level.
+
+
+
+
+10% Miscellaneous Duties
+Completes all mandatory training required by JPHSA as well as any additional training/continuing education needed to maintain professional competencies.
+Complies with Health Insurance Portability and Accountability Act (HIPAA) regulations and ethical standards as defined by law, or JPHSA policies and procedures.
+Performs other related duties as assigned to meet DDCS and/or JPHSA needs.
+Reviews and approves or returns CPOCs to support coordination as needed.
+
+
+
+
+
+
+Physical Requirements:
+
+
+
+
+Requires bending and at times working in confined spaces. This position is largely a sedentary role with occasional light lifting up to ten pounds is required.
+Work activity includes operating a computer, a computer printer, a phone, and a copy machine.
+Work activities occur inside and outside, resulting in exposure to outside weather conditions, heat, cold, dirt, and dust.
+Occasional movement about inside the office to access file cabinets, office machinery, etc.
+
+
+No Civil Service test score
+is required in order to be considered for this vacancy.
+
+
+To apply for this vacancy, click on the "Apply" link above and complete an electronic application, which can be used for this vacancy as well as future job opportunities. Applicants are responsible for checking the status of their application to determine where they are in the recruitment process. Further status message information is located under the Information section of the Current Job Opportunities page.
+
+
+
+
+*
+Resumes WILL NOT be accepted in lieu of completed education and experience sections on your application. Applications may be rejected if incomplete.
+*
+
+
+
+
+
+
+For further information about this vacancy contact:
+Scott Leonard
+Jefferson Parish Human Services Authority
+3616 S. I-10 Service Road West, Metairie, LA 70001
+Sleonard@jphsa.org
+
+
+As part of a Career Progression Group, vacancies may be filled from this recruitment as an Medical Certification Specialist 1 or 2 depending on the level of experience of the selected applicant(s). The maximum salary for the Medical Certification Specialist 2 is
+$100,360.
+Please refer to the 'Job Specifications' tab located at the top of the LA Careers 'Current Job Opportunities' page of the Civil Service website for specific information on salary ranges, minimum qualifications and job concepts for each level.
+
+
+
+
+Jefferson Parish Human Services Authority and its programs (JPHSA) participate in E-Verify
+Federal law mandates all employers to verify the identity and employment eligibility of all persons hired to work in the United States. All new hires at JPHSA are subject to employment eligibility verification through E-verify.
+
+
+E-Verify is for Everyone.
+
+
+For more information on E-Verify, please contact the Department of Homeland Security at 888-897-7781 or visit
+
+
+https://www.uscis.gov/e-verify
+
+
+
+
+Qualifications
+
+
+
+
+MINIMUM QUALIFICATIONS:
+A baccalaureate degree plus two years of professional level experience in hospital or nursing home administration, public health administration, social services, nursing, pharmacy, dietetics/nutrition, physical therapy, occupational therapy, medical technology, or surveying and/or assessing health or social service programs or facilities for compliance with state and federal regulations.
+
+
+
+
+
+
+SUBSTITUTIONS:
+A current valid Louisiana license in one of the qualifying fields will substitute for the required baccalaureate degree.
+
+
+A master's degree in hospital administration, nursing home administration, public health administration, social work, nursing, pharmacy, dietetics, nutrition, physical therapy, occupational therapy, or medical technology will substitute for a maximum of one year of the required experience.
+
+
+
+
+
+
+NOTE:
+
+
+
+
+Any college hours or degree must be from a school accredited by one of the following regional accrediting bodies: the Middle States Commission on Higher Education; the New England Association of Schools and Colleges; the Higher Learning Commission; the Northwest Commission on Colleges and Universities; the Southern Association of Colleges and Schools; and the Western Association of Schools and Colleges.
+
+
+
+
+
+
+NOTE:
+A current valid Louisiana license in an individual field may be required for some positions.
+
+
+Job Concepts
+
+
+
+
+FUNCTION OF WORK:
+To conduct surveys and/or assessments to verify that the services provided to individuals by providers, facilities, waivers, and/or long term care programs are in compliance with federal certification, state regulations, and established state standards.
+
+
+
+
+
+
+LEVEL OF WORK:
+Experienced.
+
+
+
+
+
+
+SUPERVISION RECEIVED:
+Broad review from Medical Certification Supervisor or other higher level agency administrator.
+
+
+
+
+
+
+SUPERVISION EXERCISED:
+None.
+
+
+
+
+
+
+LOCATION OF WORK:
+Department of Health and Hospitals.
+
+
+
+
+
+
+JOB DISTINCTIONS:
+Differs from Medical Certification Specialist 2 by the absence of Centers for Medicare and Medicaid Services certification and by the level of independence exercised in carrying out work responsibilities.
+
+
+Examples of Work
+
+
+EXAMPLES LISTED BELOW ARE BRIEF SAMPLES OF COMMON DUTIES ASSOCIATED WITH THIS JOB TITLE. PLEASE NOTE THAT NOT ALL TASKS ARE INCLUDED.
+
+
+Conducts surveys of health and social services programs, facilities, and providers that are state licensed and/or certified for state and federal programs.
+
+
+Conducts assessments to ensure receipt of quality services by contracted providers.
+
+
+Studies the facility or other Medicaid enrolled provider relative to quality of medical services to determine the extent of compliance with state/federal regulations, state licensing, or established state standards.
+
+
+Obtains information from review of records, staff interviews, resident interviews, personal observations relative to the operation of the medical facility, compliance standards, and quality of medical care provided.
+
+
+Evaluates equipment and environmental factors of the facility for compliance with federal and state regulations.
+
+
+Compiles information derived from surveys or paid Medicaid claims data and reports findings to recommend whether licensure and/or certification should be granted, denied, deferred, continued, or a change in Medicaid reimbursement is warranted.
+
+
+Conducts special investigations in response to complaints and prepares report findings.
+Certifies individuals as medically eligible to receive waiver services.
+
+
+Creates and monitors a continuous quality improvement process.
+
+
+Approves waiver recipients' comprehensive plan of care and annually evaluates the overall effectiveness of waiver recipients' comprehensive plan of care. Ensures that personal outcomes resulting from the receipt of waiver services are reflective of the person-centered goals identified in their comprehensive plan of care.
+
+
+Conducts quality assurance of case management agencies and service providers relative to organization, policies and procedures, administration, qualifications of staff and quality of services to determine the extent of compliance with Medicaid regulations and waiver recipients comprehensive plan of care.
+
+
+Evaluates the appropriateness and the quality of medical care based on personal observations, interviews, and/or established state performance standards.
+
+
+Receives, reviews, and determines appropriateness of recipient appeals of denied services. Gathers factual information and prepares summary of evidence. Presents testimony before Administrative Law Judge.
+___________________________________________________________________________________
+Job Title: Medical Receptionist/Front Desk
+Company Title: The Rheumatology Group
+
+
+
+
+Uptown Rheumatology clinic is seeking a full-time medical office receptionist. Previous medical office and EHR experience necessary, Duties include appointment scheduling and co-pay collection. Manage patient visit including patient demographics and insurance information.
+
+
+Hours are 8:30am - 4:30pm, Monday to Friday, no weekends or holidays. Parking provided.
+
+
+Required:
+Medical office experience
+Excellent communication and computer skills
+Electronic Health Records experience
+
+
+Preferred:
+EHR experience with EClinical Works
+
+
+Job Type: Full-time
+
+
+Work Location:
+One location
+
+
+Benefits:
+Health insurance
+Paid time off
+
+
+EMR Used:
+eClinical
+
+
+Schedule:
+Monday to Friday
+No weekends
+Day shift
+8 hour shift
+___________________________________________________________________________________
+Job Title: Medical Equipment Delivery Technician
+Company Title: DME Express
+
+
+
+
+Job Description
+Description DME Express is having tremendous growth and currently in need of the best drivers/technicians to deliver and pick up medical equipment such as Wheelchairs, Hospital Beds and Oxygen to Hospice Patients.
+DME Express is a medical supply company dedicated to delivering the best service and equipment to the Hospice field. We are growing because of our shared commitment to service excellence, passion and uncompromising desire to serve this industry.The average pay for this position varies upon experience, but no experience is required for this position. We will train the right candidates.
+
+
+Job Description: * Determines or obtains best daily route, assemble, deliver all needed equipment and educate patient and family on how to properly use equipment * Enforces all DOT and FDA regulations as they pertain to Oxygen and DME for the service center they are responsible for * Ensures stock levels are appropriate and cleanliness in warehouse and delivery vehicle is up to highest standards * Ensures that all Patient Care Technicians are adhering to company and accreditation standards * Provides patient/client orientation and instructions on the proper use of equipment when applicable * Works with patients/clients to solve a variety of problems, thereby acting as a company field representative * Completes delivery and pickup paperwork promptly and accurately, returning said paperwork to the appropriate facility personnel * Assists in cleaning, disinfecting and minor repair of said equipment * Performs daily preventive maintenance, as required, on assigned vehicle * Maintains a neat, clean personal appearance * Promotes teamwork among co-workers that includes assisting fellow drivers, as needed * May be required to work Saturday/Sundays on a predetermined, rotating schedule * Takes "on call" time on a predetermined, rotating basis * Performs warehouse and office maintenance tasks as required * Demonstrates timeliness, courtesy, sincerity and patience when working with clients * Markets the company in a positive and professional manner at all times.
+Requirements * Must have positive attitude at all times * We are a 24/7 operations, with predetermined rotating on call schedule * Accepts other duties and activities as assigned * Must have a clean driving record * Must be able to lift 75 pounds on a daily basis * Must pass drug screen (drug test is required)
+A vehicle and a cell phone are provided for use (Vehicle is allowed to go home with technician)Competitive benefits package Competitive salary (Based on experience)
+If you are the best of the best in both character and work ethic, determined to succeed with a dynamic organization that is having tremendous growth plus meeting the above requirements apply today.
+
+
+Job Type: Full-time
+
+
+Job Type: Full-time
+
+
+Salary: $14.00 to $15.00 /hour
+
+
+Experience:
+
+
+DME : 1 year (Required)
+___________________________________________________________________________________
+Job Title: PHARMACY CASHIER
+Company Title: WALGREENS
+
+
+
+
+Models and delivers a distinctive and delightful customer experience.
+Registers sales on assigned cash register and provides customers with courteous, fair, friendly, and efficient checkout service.
+
+
+Customer Experience
+Engages customers and patients by greeting them and offering assistance with products and services. Resolves customer issues and answers questions to ensure a positive customer experience.
+Models and shares customer service best practices with all team members to deliver a distinctive and delightful customer experience, including interpersonal habits (e.g., greeting, eye contact, courtesy, etc.) and Walgreens service traits (e.g., offering help proactively, identifying needs, servicing until satisfied, etc.).
+Develops strong relationships with most valuable customers.
+Operations
+Registers customer purchases on assigned cash register, collects cash and distributes change as requested; processes voids, returns, rain checks, refunds, and exchanges as needed.
+Recommends items for sale to customer and recommends trade-up and/or companion items. Assists with OTC products, and takes customer to aisle when possible.
+Operates pharmacy systems to obtain patient prescription status.
+Reports, immediately, prescription errors to pharmacist on duty and adheres to Company policies and procedures in relation to pharmacy errors and the Quality Improvement Program.
+Keeps counters and shelves clean and well merchandised, takes inventory, and maintains records. Checks in and prices merchandise as required or as directed by store manager or communicated by the shift leader.
+Implements Company asset protection procedures to identify and minimize profit loss.
+Ensures compliance with state and local laws regarding regulated products (e.g., alcoholic beverages and tobacco products).
+Constructs and maintains displays, including promotional, seasonal, super structures, and sale merchandise. Completes resets and revisions as directed.
+Has working knowledge of store systems and store equipment.
+Assists with exterior and interior maintenance by ensuring clean, neat, orderly store condition and appearance.
+Complies with all company policies and procedures; maintains respectful relationships with coworkers.
+Completes special assignments and other tasks as assigned.
+Training & Personal Development
+Attends training and completes PPLs requested by Manager or assigned by corporate.
+
+
+Basic Qualifications
+
+
+Must be fluent in reading, writing, and speaking English.
+Requires willingness to work flexible schedule, including evenings and weekend hours.
+
+
+Preferred Qualifications
+
+
+Prefer six months of experience in a retail environment.
+Prefer to have prior work experience with Walgreens.
+___________________________________________________________________________________
+#############################################
+CURRENT SECTOR == PSYCHOLOGY
+#############################################
+Job Title: Mental Health Professional
+Company Title: HCO Behavioral Health Services
+
+
+
+
+Position Summary
+
+
+: The Mental Health Professional is responsible for providing approved MHR services to recipients assigned to them.
+
+
+Qualifications:
+
+
+Meets the following criteria:
+
+
+1. Has a Master degree in one of the following areas: Psychology, Psychiatry, Social Work or Counseling.
+2. Has a minimum of 15 hours of graduate level course work and/or practicum experience in applied intervention strategies/methods designed to address behavioral and/or emotional and/or mental problems. These hours may be obtained as a part of or in addition to the Master's degree.
+
+
+Major Task List:
+1. Provides community support counseling to recipients, as assigned.
+2. Accepts assignment as Primary Community Support Worker and performs responsibly in this role.
+3. May provide Group Psycho social Skills Training to recipients, as assigned.
+4. Participates in staff training assignments, as requested.
+5. Submit accurate and complete weekly counseling notes and service logs.
+6. Participates in the agency's Performance Improvement initiative.
+7. Performs other non-direct service activities as requested by CEO, COO, or Program Director.
+8. Accepts supervision from LMHP and agency management team.
+9. Participates in weekly/monthly supervision meetings.
+10. Communicates effectively and in a timely manner with other clinical/administrative staff, as needed for client related issues.
+11. Functions well in a crisis, using good judgment and keeping appropriate staff informed.
+12. Assess, review and/or monitor a recipient's status in relation to rehabilitation.
+13. Identify, report, and maintain weekly appointments for community resources.
+14. Effectively plans work.
+15. Works independently, as needed.
+
+
+Job Types: Full-time, Part-time
+
+
+Salary: $15.00 to $22.00 /hour
+
+
+Experience:
+
+
+counseling: 1 year (Preferred)
+
+
+Education:
+Master's (Preferred)
+
+
+Required travel:
+75% (Preferred)
+
+
+Work Location:
+On the road
+
+
+Benefits:
+None
+
+
+This Company Describes Its Culture as:
+Detail-oriented -- quality and precision-focused
+Outcome-oriented -- results-focused with strong performance culture
+Team-oriented -- cooperative and collaborative
+
+
+Schedule:
+Monday to Friday
+Other
+
+
+Company's website:
+www.hcobhs.com
+
+
+Company's Facebook page:
+
+
+https://www.facebook.com/hcobehavioralhealth
+
+
+Work Remotely:
+Temporarily due to COVID-19
+___________________________________________________________________________________
+Job Title: PROGRAM CONSULTANT-SOCIAL SERVICES
+Company Title: State of Louisiana
+
+
+
+
+Supplemental Information
+
+
+This vacancy is located at the Bridge City Center for Youth in Bridge City, Louisiana and may be used to fill position number 50394897.
+The incumbent will serve in the compliance section for BCCY.
+
+
+The Office of Juvenile Justice will create a list of eligible applicants
+ONLY
+from the people who respond to this posting.
+Resumes will not be accepted in lieu of work experience
+.
+An application may be considered incomplete if the work experience and education sections are not completed.
+Interested applicants are strongly encouraged to apply online.
+No Civil Service test score
+is required in order to be considered for this vacancy.
+
+
+To apply for this vacancy, click on the "Apply" link above and complete an electronic application, which can be used for this vacancy as well as future job opportunities. Applicants are responsible for checking the status of their application to determine where they are in the recruitment process. Further status message information is located under the Information section of the Current Job Opportunities page.
+
+
+
+
+
+
+For further information about this vacancy contact:
+Shambrielle.Pooler
+DPS/Human Resources
+
+
+
+
+Email: Shambrielle.Pooler@la.gov
+
+
+In the event there is a preferred reemployment list for this position, the position may be filled from that list with no other interviews.
+
+
+If you are contacted for an interview, please let us know at that time if you will need special accommodations.
+
+
+
+
+
+
+NOTE: Prior to an appointment, the selected applicant must take and pass a drug screening test, possess a valid Louisiana Driver's License and clear a background check.
+This agency participates in the E-Verify system for verification of citizenship and employment authorization.
+
+
+The Office of Juvenile Justice is a State as a Model Employer (SAME) agency that supports improved employment opportunities for individuals with disabilities. For more information on employment-related resources available for those with disabilities, refer to the Louisiana Employment Resource Guide (Download PDF reader).
+
+
+Qualifications
+
+
+
+
+MINIMUM QUALIFICATIONS:
+A baccalaureate degree plus three years of professional level experience in administrative services, economics, public health, public relations, social services or health services.
+
+
+
+
+
+
+SUBSTITUTIONS:
+Six years of full-time work experience in any field may be substituted for the required baccalaureate degree.
+
+
+
+
+
+
+Candidates without a baccalaureate degree may combine work experience and college credit to substitute for the baccalaureate degree as follows:
+
+
+A maximum of 120 semester hours may be combined with experience to substitute for the baccalaureate degree.
+
+
+30 to 59 semester hours credit will substitute for one year of experience towards the baccalaureate degree.
+60 to 89 semester hours credit will substitute for two years of experience towards the baccalaureate degree.
+90 to 119 semester hours credit will substitute for three years of experience towards the baccalaureate degree.
+120 or more semester hours credit will substitute for four years of experience towards the baccalaureate degree.
+
+
+
+
+
+
+Graduate training with eighteen semester hours in one or any combination of the following fields will substitute for a maximum of one year of the experience on the basis of thirty semester hours for one year of experience: public health; counseling; social work; psychology; rehabilitation services; economics; business, public, or health administration.
+
+
+A master's degree in the above fields will substitute for one year of the required experience.
+
+
+A Juris Doctorate will substitute for one year of the required experience.
+
+
+Graduate training with less than a Ph.D. will substitute for a maximum of one year of the required experience.
+
+
+A Ph.D. in the above fields will substitute for two years of the required experience.
+
+
+Specialized degrees will substitute for a maximum of two years of the required experience.
+
+
+
+
+
+
+NOTE:
+
+
+
+
+Any college hours or degree must be from a school accredited by one of the following regional accrediting bodies: the Middle States Commission on Higher Education; the New England Commission of Higher Education; the Higher Learning Commission; the Northwest Commission on Colleges and Universities; the Southern Association of Colleges and Schools; and the Western Association of Schools and Colleges.
+
+
+Job Concepts
+
+
+
+
+FUNCTION OF WORK:
+To provide advanced professional level support services for social service programs.
+
+
+
+
+
+
+LEVEL OF WORK:
+Advanced.
+
+
+
+
+
+
+SUPERVISION RECEIVED:
+General from a Program Manager 1-Social Services or other higher level personnel.
+
+
+
+
+
+
+SUPERVISION EXERCISED:
+May directly or functionally supervise a small staff of clerical and/or professional employees.
+
+
+
+
+
+
+LOCATION OF WORK:
+Predominately at Department of Children and Family Services.
+
+
+
+
+
+
+JOB DISTINCTIONS:
+Differs from Program Specialist-Social Services by the presence of advanced responsibilities.
+
+
+Differs from Program Manager 1-Social Services by the absence of responsibility for managing a statewide program.
+
+
+See allocation criteria memo.
+
+
+Examples of Work
+
+
+
+
+EXAMPLES OF WORK:
+EXAMPLES LISTED BELOW INCLUDE BRIEF SAMPLES OF COMMON DUTIES ASSOCIATED WITH THIS JOB TITLE. PLEASE NOTE THAT ALL TASKS ARE NOT INCLUDED.
+
+
+Plans, coordinates and controls a statewide program element in a program area.
+
+
+Develops and implements policies and monitoring procedures for the program element.
+
+
+Conducts studies or special projects.
+
+
+Revises rules, regulations and procedures to comply with changes in law or policy.
+
+
+Identifies needs for resources and training related to community based services and determines how these needs can be met; develops proposals for meeting the needs.
+
+
+Writes and submits grant proposals.
+
+
+Meets with government officials, private officials, professionals and others on matters regarding the program element.
+
+
+Trains agency personnel regarding procedures and policies.
+
+
+Maintains records, prepares reports and conducts correspondence relative to the program element assigned.
+
+
+May direct the work of staff of professional or clerical employees, serving as a leadworker or direct supervisor.
+___________________________________________________________________________________
+Job Title: HEALTH PROMOTION EDUCATOR/ PROGRAM COORDINATOR
+Company Title: US Department of the Navy
+
+
+
+
+Duties
+
+
+Summary
+
+
+You will serve as a HEALTH PROMOTION EDUCATOR/ PROGRAM COORDINATOR in the HEALTH PROMOTION PROGRAM NAVAL BRANCH HEALTH CLINIC of NAVAMBCARECTR NOLA.
+
+
+Responsibilities
+
+
+You will coordinate, develop, and manage health education and promotion programs for designated population.
+
+
+You will develop and design curriculum.
+
+
+You will conduct medical literature reviews and research.
+
+
+You will use a variety of computer software and Internet programs for documentation and presenting educational programs and advertisements.
+
+
+Travel Required
+
+
+Occasional travel - You may be expected to travel for this position.
+
+
+Supervisory status
+No
+Promotion Potential
+None
+Job family (Series)
+
+
+1725 Public Health Educator
+Requirements
+
+
+Requirements
+
+
+Conditions of Employment
+
+
+Must be a US Citizen.
+
+
+Must be determined suitable for federal employment.
+
+
+Must participate in the direct deposit pay program.
+
+
+New employees to the Department of the Navy will be required to successfully pass the E-Verify employment verification check. To learn more about E-Verify, including your rights and responsibilities, visit www.dhs.gov/E-Verify/.
+
+
+Generally, current federal employees applying for GS jobs must serve at least one year at the next lower grade level. This requirement is called time-in-grade. Time-in-grade requirements must be met by the closing date of this announcement.
+
+
+Within the Department of Defense (DoD), the appointment of retired military members within 180 days immediately following retirement date to a civilian position is subject to the provisions of 5 United States Code 3326.
+
+
+Males born after 12-31-59 must be registered for Selective Service.
+
+
+You will be required to successfully complete a pre-appointment physical examination.
+
+
+You will be required to obtain and maintain an interim and/or final security clearance prior to entrance on duty. Failure to obtain and maintain the required level of clearance may result in the withdrawal of a job offer or removal.
+
+
+This position may require travel from normal duty station to CONUS and OCONUS and may include remote or isolated sites. You must be able to travel on military and commercial aircraft for extended periods of time.
+
+
+Qualifications
+
+
+
+
+In addition to the Basic Requirements for this position, your resume must also demonstrate at least one year of specialized experience at or equivalent to the GS-09 grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following:
+
+
+Experience in gathering health-related data and the analysis of such data to develop and manage effective Health Promotion and Wellness.
+
+
+Experience utilizing a wide range of education and public health concepts, principles, practices, procedures and techniques of childhood, adolescent and adult age levels in order to perform teaching and educational assignments.
+
+
+Experience coordinating, evaluating and revising curriculum for programs.
+
+
+Experience utilizing stress management and other health promotion techniques to effectively cope with work-related stressors.
+
+
+
+
+Additional qualification information can be found from the following Office of Personnel Management website:
+
+
+
+
+https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=GS-PROF.
+
+
+
+
+
+
+https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/1700/public-health-educator-series-1725/
+
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.
+Education
+
+
+
+
+Applicants must meet the following positive education qualifications requirements of the Office of Personnel Management (OPM) Qualifications Standards Manual:
+Applicants must possess bachelor's or higher degree in health education, health management, education, sociology, community development, social work, or educational psychology.
+
+
+Completed at least one academic year of the total amount of graduate study in a school of public health accredited by the American Public Health Association. Professional experience must have been in the field of public health education, community organization, or social work.
+
+
+
+
+
+
+Substitution of Education for Experience
+- a Ph.D. or equivalent doctoral degree, or 3 full years of progressively higher level graduate education leading to such a degree, or LL.M. if related, from an accredited college or university. (Transcripts required for verification.)
+Additional information
+
+
+This position is covered by the Department of Defense Priority Placement Program.
+
+
+Additional vacancies may be filled by this announcement.
+
+
+A tentative offer of employment will be rescinded if the selectee fails to meet the pre-employment requirements, including failure to report to any of the scheduled appointments.
+
+
+If you are unable to apply online and request information about the Alternate Application process, please contact the Department of Navy's Employment Information Center.
+
+
+
+
+
+
+Federal annuitant information: The selection of an annuitant is subject to the Department of Defense and Department of the Navy policy on the employment of annuitants. Policy information may be found at: http://www.secnav.navy.mil/donhr/Documents/CivilianJobs/FedCivAnnuitants.pdf
+
+
+
+
+
+
+ICTAP Applicants:
+
+
+To be considered well-qualified and exercise selection priority as an ICTAP candidate, displaced Federal employees must satisfy all qualification requirements for the position and receive a rating in the highly qualified category (score 85) or higher. ICTAP candidates must provide copies of all of the following documentation at the time of application: 1) agency notice; 2) most recent performance appraisal; and 3) most recent SF-50 or notification of personnel action that includes position, grade level, and duty location. Applicants who do not provide this documentation will not receive consideration as an ICTAP candidate. For more information about ICTAP eligibility please review the following link: https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/federal-employees/ictap/
+
+
+Military Spouse Preference applicants will receive priority consideration at the Full Performance Level (FPL) and if determined to be Best Qualified at the FPL, and selected, must be placed at the FPL. A BQ military spouse possesses knowledge, skills, abilities, and competencies comparable to others who meet the competitive referral criteria for the specific position.
+
+
+Recruitment incentives may be authorized to eligible new hires.
+
+
+A relocation incentive is generally a single payment intended to offset some of the relocation costs experienced by the selectee. A relocation incentive may be authorized.
+
+
+
+
+How You Will Be Evaluated
+
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+
+In order to qualify for this position, your resume must provide sufficient experience and/or education, knowledge, skills, and abilities to perform the duties of the specific position for which you are being considered. Your resume is the key means we have for evaluating your skills, knowledge, and abilities as they relate to this position. Therefore, we encourage you to be clear and specific when describing your experience.
+
+
+
+
+
+
+When the application process is complete, we will review your resume to ensure you meet the hiring eligibility and qualification requirements listed in this announcement. You will be rated based on the information provided in your resume and responses to the Occupational Questionnaire, along with your supporting documentation to determine your ability to demonstrate the following competencies:
+
+
+ASSESSMENT
+INSTRUCTIONAL SYSTEMS
+PUBLIC EDUCATIONAL SERVICES
+TRAINING PROGRAM ADMINISTRATION
+
+
+You should list any relevant performance appraisals and incentive awards in your resume as that information may be taken into consideration during the selection process. If selected, you may be required to provide supporting documentation.
+
+
+If after reviewing your resume and supporting documentation, a determination is made that you inflated your qualifications and/or experience, your score may be adjusted to more accurately reflect your abilities or you may be found ineligible/not qualified.
+
+
+Please follow all instructions carefully. Errors or omissions may affect your rating or consideration for employment.
+
+
+All eligibility, qualifications, and time-in-grade requirements must be met by the closing date of this announcement.
+
+
+
+
+Background checks and security clearance
+
+
+Security clearance
+
+
+Secret
+Drug test required
+
+
+No
+Required Documents
+
+
+Required Documents
+
+
+You are required to provide documentation that supports the eligibility and qualification claims made in your resume and assessment questionnaire
+. You must submit the applicable documents listed here and those listed with the eligibilities you select in the announcement questionnaire with your application package. Applicants who do not provide supporting documentation that fully support their claims will not be referred to the hiring manager. Cover letter is optional.
+
+
+
+
+A complete resume is required.
+
+
+ Your resume must show relevant experience, job title, duties and accomplishments. Your resume must show complete information for each job entry to support minimum qualifications. The following information should be provided in your resume, but it is acceptable to provide elsewhere in your application package: employer's name, starting and end dates (Mo/Yr), hours per week, and pay plan, series and grade level (e.g. GS-0201-09) for relevant federal experience.TIP: A good way to ensure you include all essential information is to use the Resume Builder in USAJOBS to create your resume.
+
+
+
+
+Are you applying for a promotion?
+If you are a current GS employee applying for a higher grade than the grade that you currently hold you must provide an SF-50 that shows that you have held the next lower grade for at least one year. Some SF-50s effective within the last 52 weeks will not demonstrate you have held the next lower grade for at least one year (e.g. General Adjustment SF-50 from this year). In many cases, we need to see two (2) SF-50s to determine time-in-grade and eligibility for promotion. If you are a DoD employee, you can obtain a copy of your SF- 50(s) from MyBiz.
+
+
+
+
+Are you claiming membership in any professional organizations, or possession of a license, certificate or credentials?
+Check the
+Conditions of Employment
+section above to see if any are required. If you claim membership, license, certification, or credentials, you must submit a copy of said document in your application package.
+
+
+
+
+Are you using education as a substitute for some or all of the experience requirement? Is there a basic education requirement for this position?
+Check the
+Education
+section above to see what is allowed and what is required. Any claims you make in your resume or assessment questionnaire regarding education or degrees MUST be supported by official or unofficial transcripts or a list of courses, grades earned, completion dates, and quarter and semester hours earned issued from your school. While unofficial transcripts are acceptable for initial application, an official transcript will ultimately be required if you are selected for the position. You may submit a copy your degree(s) if specific coursework does not have to be verified.
+
+
+
+
+Are you a veteran claiming 5-point veterans' preference
+or
+claiming sole survivorship preference?
+
+
+You must submit a copy of your latest DD-214 Certificate of Release or Discharge from Active Duty (any copy that shows all dates of service, as well as character of service [Honorable, General, etc.] is acceptable) OR a VA letter that shows dates of service or service connected disability AND character of service. If you have more than one DD-214 for multiple periods of active duty service, submit a copy for each period of service. If you were issued a DD-215 to amend aforementioned information on the DD-214 you must submit that too. If you are not sure of your preference eligibility, visit the Department of Labor's website: Veterans' Preference Advisor
+
+
+
+
+Are you a disabled veteran or claiming 10-point veterans' preference?
+If you are eligible to claim 10 point veterans preference you must submit a DD-214 Certificate of Release or Discharge from Active Duty as described above for 5-point preference.
+
+
+
+
+
+
+You must also provide the applicable supporting documentation of your disability (e.g. disability letter from the VA) as described on Standard Form-15 (SF-15). http://www.opm.gov/forms/pdf_fill/SF15.pdf.
+
+
+
+
+Are you an active duty service member?
+Active Duty Service Members are required to submit a statement of service printed on command letterhead and signed by the command. The statement of service must provide the branch of service, rate/rank, all dates of service, the expected date of discharge and anticipated character of service (Honorable, General, etc.).
+
+
+Documents submitted as part of the application package, to include supplemental documents, may be shared beyond the Human Resources Office. Some supplemental documents contain personal information such as SSN and DOB and some documents such as military orders and marriage certificates may contain personal information for someone other than you. You may sanitize these documents to remove said personal information before you submit your application. You must provide an un-sanitized version of the documents if you are selected.
+
+
+If you are relying on your education to meet qualification requirements:
+
+
+Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+Benefits
+
+
+Benefits
+
+
+A career with the U.S. Government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Learn more about federal benefits.
+Review our benefits
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time, or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+
+Help
+This job is open to
+
+
+Career transition (CTAP, ICTAP, RPL)
+Federal employees who meet the definition of a "surplus" or "displaced" employee.
+Federal employees - Competitive service
+Current or former competitive service federal employees.
+Land & base management
+Certain current or former term or temporary federal employees of a land or base management agency.
+Military spouses
+Special authorities
+Individuals eligible under a special authority not listed above, but defined in the federal hiring regulations.
+Veterans
+Clarification from the agency
+
+
+VEOA eligibles and DoD Military Spouse Preference (MSP) eligibles
+___________________________________________________________________________________
+Duties
+
+
+Summary
+
+
+This position is located in the Department of Homeland Security, United States Coast Guard, Director of Operational Logistics, Base New Orleans, Health, Safety, and Work-Life Regional Practice, New Orleans, LA.
+
+
+
+
+Responsibilities
+
+
+As a Family Advocacy Specialist (Clinical), the primary focus of this position is to ensure compliance with the Congressional mandate that military services, including Coast Guard, to prevent and reduce family maltreatment within each service.
+
+
+
+
+
+
+Being a Coast Guard civilian makes you a valuable member of the Coast Guard team. Typical work assignments include:
+
+
+
+
+Serving as a mental healthcare provider where appropriate to Family Advocacy Program and FINS clients to include providing consultation, differential diagnosis and treatment planning.
+
+
+
+
+Ensuring all aspects of the Coast Guard Family Advocacy Program are completed in each case including: reporting and intervention, risk assessment and appropriate coordination of safety measures, case management, referrals, and follow-ups.
+
+
+Providing screens for overseas duty personnel when requested by commands or Headquarters.
+
+
+Identifying Family Advocacy Program related intervention and prevention needs with the AOR to meet services outlined.
+
+
+Engaging clients in a cooperative effort to work together to prevent subsequent incidents of maltreatment.
+
+
+Maintaining FAP records and statistical data.
+
+
+
+
+Travel Required
+
+
+Occasional travel - This position requires occasional travel.
+
+
+Supervisory status
+No
+Promotion Potential
+12
+Job family (Series)
+
+
+0101 Social Science
+Requirements
+
+
+Requirements
+
+
+Conditions of Employment
+
+
+U.S. Citizenship is required.
+
+
+The position requires a valid state driver's license.
+
+
+This position requires a clinical license in mental health counseling.
+
+
+Males born after 12/31/1959 must be registered for Selective Service.
+
+
+Transcripts are required at the time of application.
+
+
+This position requires a Secret clearance.
+
+
+All qualification requirements must be met by the closing date of the announcement. This includes Time-In-Grade requirements for current status employees applying through merit promotion procedures. Status applicants applying for a promotion must have 52 weeks of service at the next lower grade.
+
+
+Qualifications
+
+
+
+
+Basic Requirements for Clinical Positions:
+
+
+1. Minimum of a Master's Degree in Mental Health Counseling or allied mental health field such as Social Work or Psychology, Marriage and Family Therapy, or Rehabilitative Counseling from an accredited institution.
+
+
+
+
+
+
+2. An unrestricted state license in mental health counseling at the clinical or highest level available in states that have tiered licensing schemes. Examples: Licensed Professional Counselor, Licensed Marriage and Family Therapist, Licensed Clinical Social Worker, and Licensed Clinical Mental Health Counselor.
+(You must provide a copy with your application.)
+
+
+
+
+
+
+3. The passage of one of the following exams: National Clinical Mental Health Counseling Examination, Clinical Level Association of Social Work Boards Examination for Licensure and Certification, the National Counselor Examination, or passage of another nationally recognized mental health counseling examination.
+
+
+TRANSCRIPTS AND PROOF OF THE INFORMATION ABOVE MUST BE SUBMITTED AT THE TIME OF APPLICATION.
+
+
+IN ADDITION TO THE BASIC REQUIREMENTS LISTED ABOVE:
+To qualify at the GS-12 level, applicants must possess at least one year of specialized experience equivalent to the GS-11 level (in the Federal sector). Specialized experience is experience that has equipped you with the particular ability, skill, and knowledge to successfully perform the duties of this position and is typically in or related to this line of work.
+
+
+
+
+
+
+Examples of specialized experience include:
+developing standard operating procedures for sexual assault or behavioral health programs; presenting briefings to upper management on Family Advocacy Program status; providing intervention and case management services for child abuse and neglect cases; administering a sexual assault victim advocacy program; coordinating services and advocating for sexual assault victims.
+
+
+
+
+
+
+National Service Experience (i.e., volunteer experience): Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+
+The Office of Personnel management (OPM) must authorize employment offers made to current or former political appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule, C, Non-career SES or Presidential Appointee employee in the Executive Branch, you must disclose this information to the Human Resources Office.
+
+
+Education
+
+
+This position does have a positive education requirement.
+If you are including education on your resume, report only attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education. See Required Documents section.
+
+
+
+
+
+
+FOREIGN EDUCATION: Education completed in foreign colleges or universities may be used to meet Federal qualification requirements if you can show that your foreign education is comparable to education received in accredited educational institutions in the United States. It is your responsibility to provide such evidence with your application. See Recognition of Foreign Qualifications click here
+
+
+Additional information
+
+
+Applicants will be required to complete questions contained on the Declaration for Federal Employment (OF-306) at the time a tentative job offer is made. Certain responses on the form could pose a problem with suitability for employment determinations. If you receive a conditional offer of employment for this position, you will be required to complete/make updates to the OF-306 and to sign and certify the accuracy of all information in your application, prior to entry on duty. False statements on any part of the application may result in withdrawal of offer of employment, dismissal after beginning work, or imprisonment.
+
+
+DHS uses e-Verify, an Internet-based system, to confirm the eligibility of all newly hired employees to work in the United States. Learn more about e-Verify, including your rights and responsibilities at click here
+
+
+Recruitment incentives may be authorized.
+
+
+All Federal employees are required to have Federal salary payments made by direct deposit.
+
+
+The Department of Homeland Security encourages persons with disabilities to apply, to include persons with intellectual, severe physical or psychiatric disabilities, as defined by 5 CFR § 213.3102(u), and/or Disabled Veterans with a compensable service-connected disability of 30 percent or more as defined by 5 CFR § 315.707. Veterans, Peace Corps/VISTA volunteers, and persons with disabilities possess a wealth of unique talents, experiences, and competencies that can be invaluable to the DHS mission. If you are a member of one of these groups, you may not have to compete with the public for federal jobs. To determine your eligibility for non-competitive appointment and to understand the required documentation, click on the links above or contact the Servicing Human Resources Office listed at the bottom of this announcement.
+
+
+More than 1 selection may be made from this announcement if additional identical vacancies in the same title, series, grade, and unit occur within 45 days from the date the certificate was issued.
+
+
+If you need a reasonable accommodation for the application and hiring process, please contact 202-795-6287. Decisions on granting reasonable accommodation will be made on a case-by-case basis. Visit Reasonable Accommodation-
+
+
+
+
+
+
+How You Will Be Evaluated
+
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+
+
+
+We will review your résumé and supporting documentation to ensure you meet the basic qualification requirements. If you meet the minimum qualifications, your experience, education and training will be rated using the on-line self assessment questions that are based on the following competencies or knowledge, skills, and abilities needed to perform this job:
+
+
+
+
+Knowledge of the principles and practices of the administration of a human services oriented program to meet the needs of a wide variety of social problems of individuals and families.
+
+
+Knowledge of Federal, State, and local human services laws, policies, procedures, and regulations.
+
+
+Skill in the identification, referral, case management, and follow-up of members and families involved in violence incidents.
+
+
+Knowledge of clinical counseling principles and practices sufficient to conduct the psychosocial assessment of individuals, development of treatment plans, treatment delivery, and the provision of appropriate referrals.
+
+
+Knowledge of military, Federal, state, county, and volunteer human services programs as well as resources available to members and dependents.
+
+
+Ability to communicate effectively orally, and in writing in terms of understandable to a wide diversity of individuals.
+
+
+
+
+Your resume and responses to the self-assessment questions are an integral part of the process for determining your qualifications for the position. Therefore, you must support your responses to the self-assessment questions by providing examples of past and present experience in your resume.
+
+
+If you are best qualified, you may be referred to the hiring manager for consideration and may be called for an interview.
+
+
+Consideration will be given to performance appraisals and incentive awards as an indicator of quality of prior experience; no points will be assigned.
+
+
+
+
+To preview questions please
+click here
+.
+
+
+
+
+Background checks and security clearance
+
+
+Security clearance
+
+
+Secret
+Drug test required
+
+
+No
+Position sensitivity and risk
+
+
+Noncritical-Sensitive (NCS)/Moderate Risk
+Trust determination process
+
+
+Credentialing, Suitability/Fitness, National security
+Required Documents
+
+
+Required Documents
+
+
+1. Your resume
+2. Your responses to the online questionnaire
+3. Current or former federal employees, submit a copy of your most recent SF-50, Notice of Personnel Action, that demonstrates your eligibility for consideration, e.g., length of time you have been in your current/highest grade. Examples of appropriate SF-50s include promotions, with-in grade increases. Performance award are not acceptable.
+4. If you are qualifying based on education, submit a legible copy of your unofficial college transcript from an accredited college/university. The transcript must reflect the college/university name and/or logo. Applicants are highly encouraged to proactively order a copy of their official transcripts to be delivered to their home address so transcripts will be readily available if selected. If selected, official transcripts are required prior to establishing your start date. Foreign education completed in foreign colleges or universities may be used to meet education requirements if you can show that it is comparable to education received in U.S. accredited institutions. Provide proof with your application. Please see click here.
+5. If you are claiming special priority selection rights under the Interagency Career Transition Assistance Program (ICTAP), you must submit a copy of your agency notice, most recent performance rating and most recent SF-50, noting your current position, grade level and duty location. If you have never worked for the federal government, you are not ICTAP eligible. To be considered eligible, you must be placed in the well-qualified category for this position. Please see ICTAP eligibility.
+6. If you are claiming veterans’ preference, submit the following documents. Please see Feds Hire Vets for detail.
+a. Veterans claiming 5 point veterans' preference must submit legible Member 4 Copy DD214(s) indicating Character of Service. 5-point preference will not be granted if appropriate documentation is not submitted.
+b. 30% Disabled Veterans must submit their Member Copy 4 DD-214(s), which includes Character of Service, and VA Disability Letter with percentage of disability OR documentation of disability determination from a branch of the Armed Forces which reflects a compensable service-connected disability of 30% or more.
+c. Other 10 point Preference Eligibles must submit applicable Member Copy 4 DD-214(s), which includes Character of Service, and provide documentation of your other 10 point preference. If claiming 10 point preference, you must provide required documentation described on the back of the SF-15. 10-point preference will not be granted if appropriate documentation is not submitted with your application.
+
+
+
+
+d. If you are a current active duty military member who does not have a DD214 and is claiming preference under the Veterans Opportunity to Work (VOW) Act, you must submit certification from the Armed Forces indicating that you will be discharged or released under honorable conditions from active duty within 120 days from the date on the certification. Certifications must be on letterhead from the appropriate military branch and include: military dates of service and expected discharge or release date, character of service, military rank, type of discharge and date when terminal leave will begin. Certifications must be signed by, or by direction of military members’ military personnel offices, unit commanders or higher headquarters.
+7. If you are requesting consideration under Executive Order 13473, you must submit proof of eligibility. At a minimum to confirm eligibility for purposes of appointment based on relocation under these provisions a spouse of a service member must provide a copy of the marriage certificate or other documentation verifying marriage and a copy of the military PCS orders assigning the service member to a certain post. The PCS orders must state the member's spouse was authorized on the military orders. Proof of eligibility based on disability and deaths resulting from active duty service is outlined here.
+8. OPM must authorize employment offers for former or current Political Appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C or Non-Career SES employee in the Executive Branch, you must disclose this information. Submit proof of your former or current status, such as your SF-50. Please see here.
+
+
+All documentation as outlined above must be received by the closing date of the announcement. If you are unable to submit your documents electronically, you may fax or mail the documents. A fax cover sheet will be provided to you from the system with fax number and instructions. Required documents will also be accepted by mail and must be received by the closing date of the announcement. The mailing address is COMMANDANT (CG-123SE), ATTN OFFICE OF CIVILIAN HUMAN RESOURCES (JOBS), US COAST GUARD, 2703 MARTIN LUTHER KING JR AVE SE, STOP 7912, WASHINGTON, DC 20593-7912.
+
+
+
+
+If you are relying on your education to meet qualification requirements:
+
+
+Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+Benefits
+
+
+Benefits
+
+
+A career with the U.S. Government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Learn more about federal benefits.
+
+
+DHS offers competitive salaries and an attractive benefits package, including: health, dental, vision, life, and long-term care insurance; retirement plan; Thrift Savings Plan [similar to a 401(K)]; Flexible Spending Account; Employee Assistance Program; personal leave days; and paid federal holidays. Other benefits may include: flexible work schedules; telework; tuition reimbursement; transportation subsidies; uniform allowance; health and wellness programs; and fitness centers. DHS is committed to employee development and offers a variety of employee training and development opportunities. For more information, go to the DHS Careers website and select “Benefits”. Disabled veteran leave will be available to any Federal employee hired on or after November 5, 2016, who is a veteran with a service-connected disability rating of 30 percent or more.
+
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time, or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+
+Help
+This job is open to
+
+
+Individuals with disabilities
+Federal employees - Competitive service
+Current or former competitive service federal employees.
+Career transition (CTAP, ICTAP, RPL)
+Federal employees who meet the definition of a "surplus" or "displaced" employee.
+Land & base management
+Certain current or former term or temporary federal employees of a land or base management agency.
+Military spouses
+Peace Corps & AmeriCorps Vista
+Special authorities
+Individuals eligible under a special authority not listed above, but defined in the federal hiring regulations.
+Veterans
+Clarification from the agency
+
+
+
+
+Status Candidates, Merit Promotion, Current Federal Employees, Former Federal Employees, Overseas Employees, Former Overseas Employees, CTAP, ICTAP, VEOA, 30% Disabled, Schedule A, Individuals with Disabilities, Military Spouses, Land and Base Management, Peace Corps, Americorps, Vista For definitions of common terms found in this announcement: http://dhsconnect.dhs.gov/org/comp/mgmt/dhshr/hr/Documents/JOA_Common_Definitions.pdf
+___________________________________________________________________________________
+Job Title: Case Manager
+Company Title: NAMI New Orleans
+
+
+
+
+NAMI New Orleans seeks a caring and meticulous team player with a Bachelor’s or Master’s (preferred) in Social Work, Sociology, Psychology or Counseling for a full-time Case Manager position.
+NAMI New Orleans offers hope, help and healing to people with mental illness – and to those who share their lives – through family support, education and advocacy and quality psychosocial services. Our work helps individuals live with dignity and independence within the community, enriching all of our lives.
+
+
+As a member of our NAMI New Orleans family, you will:
+1) Support Womanspace through grocery runs, donation pickups, etc.
+2) Provide Community Psychiatric Support and Treatment (CPST) and Psychosocial Rehabilitation (PSR) services.
+3) Document all services, assessments and treatment plans in the electronic health record on the same day the service was rendered.
+4) Coordinate all safe haven residents into permanent supportive housing within 60 days of entry.
+5) Provide group counseling.
+6) Participate in an on-call emergency phone rotation.
+7) Work at least one weekend day shift per month.
+
+
+Job Type: Full-time
+
+
+Salary: $33,000.00 to $36,000.00 /year
+
+
+Experience:
+
+
+Case Management of Special Needs Populations: 1 year (Required)
+
+
+working with individuals who are trans: 1 year (Preferred)
+
+
+Education:
+Bachelor's (Required)
+
+
+License:
+valid driver's license, valid auto insurance, reliable auto (Required)
+
+
+Work authorization:
+United States (Required)
+
+
+Additional Compensation:
+Bonuses
+
+
+Benefits:
+Health insurance
+Dental insurance
+Retirement plan
+Vision insurance
+Paid time off
+
+
+Schedule:
+Monday to Friday
+
+
+Benefit Conditions:
+Waiting period may apply
+Only full-time employees eligible
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+Job Title: PROGRAM MANAGER 1-B DHH
+Company Title: State of Louisiana
+
+
+
+
+Supplemental Information
+
+
+
+
+Job Number:
+OPH/PJ/1800
+
+
+
+
+This position is located within the Louisiana Department of Health l Office of Public Health l Bureau of Family Health l Orleans Parish.
+
+
+
+
+
+
+Cost Center: 0326-7620
+
+
+
+
+Position Number(s): 50590210
+This vacancy is being announced as a Classified position and may be filled either as a Probationary Appointment or Promotional Appointment.
+No Civil Service test score
+is required in order to be considered for this vacancy.
+
+
+To apply for this vacancy, click on the "Apply" link above and complete an electronic application, which can be used for this vacancy as well as future job opportunities. Applicants are responsible for checking the status of their application to determine where they are in the recruitment process. Further status message information is located under the Information section of the Current Job Opportunities page.
+
+
+
+
+*
+Resumes WILL NOT be accepted in lieu of completed education and experience sections on your application. Applications may be rejected if incomplete.
+*
+
+
+
+
+
+
+For further information about this vacancy contact:
+Paula Jackson @ Paula.Jackson@la.gov
+LDH/HUMAN RESOURCES
+P.O. BOX 4818 BATON ROUGE, LA 70821
+
+
+
+
+This organization participates in E-verify, and for more information on E-verify, please contact DHS at 1-888-464-4218.
+
+
+
+
+Qualifications
+
+
+
+
+MINIMUM QUALIFICATIONS:
+A baccalaureate degree plus four years of professional level experience in administrative services, economics, public health, public relations, social services, health services, or surveying and/or assessing health or social service programs or facilities for compliance with state and federal regulations.
+
+
+
+
+
+
+SUBSTITUTIONS:
+Six years of full-time work experience in any field may be substituted for the required baccalaureate degree.
+
+
+
+
+
+
+Candidates without a baccalaureate degree may combine work experience and college credit to substitute for the baccalaureate degree as follows:
+
+
+A maximum of 120 semester hours may be combined with experience to substitute for the baccalaureate degree.
+
+
+30 to 59 semester hours credit will substitute for one year of experience towards the baccalaureate degree.
+60 to 89 semester hours credit will substitute for two years of experience towards the baccalaureate degree.
+90 to 119 semester hours credit will substitute for three years of experience towards the baccalaureate degree.
+120 or more semester hours credit will substitute for four years of experience towards the baccalaureate degree.
+
+
+College credit earned without obtaining a baccalaureate degree may be substituted for a maximum of four years full-time work experience towards the baccalaureate degree. Candidates with 120 or more semester hours of credit, but without a degree, must also have at least two years of full-time work experience to substitute for the baccalaureate degree.
+
+
+
+
+
+
+Graduate training with eighteen semester hours in one or any combination of the following fields will substitute for a maximum of one year of the required experience on the basis of thirty semester hours for one year of experience: public health; public relations; counseling; social work; psychology; rehabilitation services; economics; statistics; experimental/applied statistics; business, public, or health administration.
+
+
+A Juris Doctorate will substitute for one year of the required experience.
+
+
+A master's degree in public health; counseling; social work; psychology; rehabilitation services; economics; business, public, or health administration will substitute for one year of the required experience.
+
+
+Graduate training with less than a Ph.D. will substitute for a maximum of one year of the required experience.
+
+
+A Ph.D. in public health; counseling; social work; psychology; rehabilitation services; economics; business, public, or health administration will substitute for two years of the required experience.
+
+
+
+
+
+
+NOTE:
+Graduate training will substitute for a maximum of two years of the required experience.
+
+
+
+
+
+
+NOTES:
+Health services include all services dealing with the diagnosis and treatment of disease, or the promotion, maintenance and restoration of health for sick or injured individuals.
+
+
+Examples of public health jobs include sanitarian, public health engineer and public health epidemiologist.
+
+
+
+
+
+
+NOTE:
+
+
+
+
+Any college hours or degree must be from a school accredited by one of the following regional accrediting bodies: the Middle States Commission on Higher Education; the New England Commission of Higher Education; the Higher Learning Commission; the Northwest Commission on Colleges and Universities; the Southern Association of Colleges and Schools; and the Western Association of Schools and Colleges.
+
+
+Job Concepts
+
+
+
+
+Function of Work:
+To administer small and less complex statewide health or social service program(s)
+
+
+
+
+
+
+Level of Work:
+Manager.
+
+
+
+
+
+
+Supervision Received:
+Broad direction from a higher-level manager/administrator.
+
+
+
+
+
+
+Supervision Exercised:
+Supervision over lower-level position(s) in accordance with the Civil Service Allocation Criteria Memo.
+
+
+
+
+
+
+Location of Work:
+Department of Health and Hospitals; Human Services Districts as established; and other social service entities as established by an approved DSCS Allocation Criteria Memorandum.
+
+
+
+
+
+
+Job Distinctions:
+Differs from Program Monitor-DHH and Program Monitor Supervisor-DHH by the presence of responsibility for managing small and less complex statewide program(s).
+
+
+Differs from a Program Manager 1-A-DHH by the presence of supervisory responsibility.
+
+
+Differs from a Program Manager 2-DHH by the absence of responsibility for managing medium size and moderately complex statewide program(s).
+
+
+Examples of Work
+
+
+Supervises the coordination of research, analysis and policy management activities related to statewide health or social service program(s).
+
+
+Develops current and long-range plans, policies and procedures for administering the statewide program(s).
+
+
+Monitors revenues and expenditures of statewide program budget; formulates budgetary projections.
+
+
+Prepares and submits grant proposals.
+
+
+Drafts and finalize contracts and Memorandums of Understanding; monitors/manages budgetary and programmatic aspects of those agreements assuring compliance with requirements/deliverables. Approves contract invoices.
+
+
+Responds proactively to audit findings, programmatic challenges and issues; coordinates responses and reports to auditors and federal/state governmental entities.
+
+
+Provides on-going consultation and technical assistance to professional and support staff on programmatic issues.
+
+
+Serves as liaison for agency on statewide task forces, work groups, councils, and coalitions.
+
+
+Manages the legislative tracking process during legislative sessions assuring timely analysis of bills and resolutions passed which may impact services. Serves as legislative coordinator.
+
+
+Revises rules, regulations and procedures to meet changes in law or policy.
+
+
+Develops and implements training programs for electronic agency policy.
+___________________________________________________________________________________
+Job Title: Housing Case Manager
+Company Title: NAMI New Orleans
+
+
+
+
+NAMI New Orleans seeks a caring and meticulous team player with a Bachelor’s ($33,000) or Master’s ($36,000) in Social Work, Sociology, Psychology or Counseling for a full-time Housing Case Manager position.
+NAMI New Orleans offers hope, help and healing to people with mental illness – and to those who share their lives – through family support, education and advocacy and quality psychosocial services. Our work helps individuals live with dignity and independence within the community, enriching all of our lives.
+
+
+As a member of our NAMI New Orleans family, you will:
+1) Assist clients in securing permanent housing and help ensure that clients do not return to homelessness.
+2) Provide CPST and PSR services.
+3) Document all billable services, assessments and treatment plans in the electronic health record on the same day the service was rendered.
+4) Negotiate with landlords and develop rapport with property managers
+
+
+Job Type: Full-time
+
+
+Salary: $33,000.00 to $36,000.00 /year
+
+
+Experience:
+
+
+Case Management of Special Needs Populations: 1 year (Required)
+
+
+Education:
+Bachelor's (Required)
+
+
+License:
+valid driver's license, valid auto insurance, reliable auto (Required)
+
+
+Work authorization:
+United States (Required)
+
+
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+Retirement plan
+Paid time off
+
+
+Schedule:
+Monday to Friday
+
+
+Benefit Conditions:
+Waiting period may apply
+Only full-time employees eligible
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+Job Title: Licensed Mental Health Professional
+Company Title: NAMI New Orleans
+
+
+
+
+NAMI New Orleans is seeking a full-time Licensed Mental Health Professional for its Womanspace program.
+Duties
+Oversee the Safe Haven case load, and provide crisis intervention services, as necessary
+Review the file of each participant for internal consistency and completeness
+Ensure the timely and accurate completion of each participant's re-authorization with each Healthy Louisiana Managed Care Organization (MCO)
+Engage in dispute resolution with Safe Haven participants, communicate directly with participants and case managers during those occasions, and provide appropriate clinical interventions, when necessary
+Document participant non-compliance or suspected fraud
+Mentor case management employees while they are mastering new responsibilities. Provide leadership and guidance as needed
+Cover the caseloads of other case managers during times of vacation, leave of absence, or staff vacancies
+Audit new client files, and do at least semi-annual quality assurance, as assigned
+Terminate participants for non-compliance with program rules and policies, in coordination with the Transitional Housing Program Director
+Review/audit clinical staff notes for completeness, and intervention effectiveness
+Attend all required training and safety meetings; use, maintain and replace assigned personal protective equipment; report all injuries and illnesses to supervisor immediately; complete and submit incident/accident reports as required; report hazardous conditions or unsafe work practices to supervisor; and follow all safety and health guidelines, practices, policies and procedures. Monitor and enforce the agency's Safety Program, and actively support and participate in Emergency Preparedness tasks.
+Must be on call, on a rotating basis with Transitional Housing Program Director, Overnight and Evening Director, and case management staff.
+Perform any/other related duties as assigned.
+Minimum Qualifications
+
+
+EXPERIENCE:
+-Four years related work experience including a minimum of 12 months experience working with individuals living with serious mental illness, and individuals who are transgender
+
+
+EDUCATION:
+-Masters degree in Social Work, Sociology, Psychology or Counseling
+
+
+LICENSES AND OTHER REQUIREMENTS:
+-Must be a Licensed Clinical Social Worker or Licensed Professional Counselor
+-Must provide proof of licensure and completion of graduate education
+-Must have a valid driver’s license, reliable transportation with insurance and a clean driving record
+Benefits include paid sick time and vacation days, 10 paid holidays, mileage reimbursement, 401K after one year and partial health insurance, vision, and dental. Interested candidates must supply both a cover letter and resume'. No phone calls or walk-ins please.
+
+
+Job Type: Full-time
+
+
+Salary: $49,920.00 /hour
+
+
+Experience:
+
+
+working with transgender individuals: 1 year (Preferred)
+
+
+working with individuals with mental illness: 1 year (Preferred)
+
+
+Education:
+Master's (Required)
+
+
+License:
+LCSW or LPC (Required)
+Driver's License (Required)
+
+
+Work authorization:
+United States (Required)
+
+
+Benefits:
+Health insurance
+Dental insurance
+Retirement plan
+Vision insurance
+Paid time off
+
+
+Schedule:
+Monday to Friday
+
+
+Benefit Conditions:
+Waiting period may apply
+Only full-time employees eligible
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+Job Title: Licensed Mental Health Counselor- Thibodaux, LA
+Company Title: Merakey
+
+
+
+
+Merakey is currently seeking a
+Licensed Mental Health Counselor
+to join our Adult Behavioral Health Division in our
+Thibodaux, LA
+location.
+POSITION OVERVIEW
+Provide individual and group therapy, choosing applicable modalities according to individual needs and treatment plan.
+Provide mini treatment team leadership.
+Develops treatment plans.
+Provide recovery based, person centered services.
+Develop comprehensive goal plans in conjunction with individuals and family members.
+Monitor record-keeping ensure that client charts are up-to-date and include all necessary documentation.
+Ensure timeliness and quality of treatment plans and develop progress notes.
+Coordinate resources and information pertinent to client needs.
+Develop, write, implement, evaluate and revise, as necessary, individual's treatment plans in collaboration with the Treatment Team.
+
+
+Position Requirements:
+Master's degree in Human Services related field, such as Psychology, Social Work, or Counseling; AND
+1 year of PAID clinical experience, post-master's required.
+LPC or LCSW fully licensed
+Prefer candidates with experience working with chronically mentally ill adults and/or dual diagnosis population.
+Must have appropriate state and federal clearances.
+Must hold valid driver's license and have access to an automobile during working hours.
+MERAKEY IS PROUD TO OFFER THE FOLLOWING BENEFITS
+Work/Life Balance
+Competitive Compensation Plans
+Opportunities for professional growth and advancement
+Medical, Dental, and Vision Insurance Plans
+Flexible Spending Accounts
+Short/Long Term Disability Coverage
+Life Insurance
+403B Retirement Plan (with company matching)
+Marketplace Savings Program
+Employee Assistance Program
+Wellness Programs
+24-Hour Nurse Hotline
+Tuition Reimbursement
+Generous Paid Time Off (for qualifying positions)
+Stability that coincides with working for a national leader in education and human services
+ABOUT MERAKEY'S BEHAVIORAL HEALTH DIVISION
+Merakey offers a continuum of care in behavioral health (includes mental health and addictive diseases), integrating services in both community and site-based settings. These services provide a wide range of recovery focused treatment, services, and supports for children and adults.
+Site/Clinic Based Services
+The Center for Hope
+Outpatient
+Parent Child Interaction Therapy (PCIT)
+Parents and Children Together (PACT)
+Partial Hospitalization Program (PHP)
+Psychiatric/Socialization Rehabilitation for Hope
+Residential Services for Children and Adults
+Community Based Services
+Assertive Community Treatment (ACT) and Forensic Assertive Community Treatment (FACT)
+Behavioral Health Rehabilitation Services (BHRS)
+Case Management / Recovery Coaching
+Community Health Liaison (CHL)
+Community and School Based Behavioral Health (CSBBH)
+Crisis Intervention
+Substance Use Disorder Services
+Dual Diagnosis Treatment Team (DDTT)
+Family Based Mental Health Services
+Therapeutic Family Care
+Foster Care Plus
+Peer Support
+Student Assistance Program (SAP)
+Supported Employment
+Supports for Permanency (SFP)
+
+
+For more information on each individual service, please visit: https://www.merakey.org/services-behavioral-health.html
+ABOUT MERAKEY
+Merakey is a leading developmental, behavioral health and education provider offering a breadth of integrated services to individuals and communities across the country.
+We leverage our size and expertise to develop innovative solutions and new models of care to meet the needs of individuals, their families, public and private healthcare funders and community partner organizations.
+We recognize that complex needs require a holistic approach. With our experience, expertise and compassion, we empower everyone within our communities to reach their fullest potential.
+With a rich tradition spanning 50 years with nearly 10,000 employees, Merakey provides care to over 40,000 adults and children throughout Pennsylvania, New Jersey, New York, Maryland, Delaware, Louisiana, Michigan, Texas, California, and Tennessee.
+Merakey is an Equal Opportunity Employer!
+APPLY TODAY!!
+
+
+Job Type: Full-time
+
+
+Salary: $60,000.00 /year
+
+
+Experience:
+
+
+Mental Health: 1 year (Required)
+
+
+community health: 1 year (Preferred)
+
+
+Education:
+Master's (Required)
+
+
+License:
+Driver's License (Required)
+LPC/LCSW (Required)
+
+
+Application Question:
+This is a community based position. You would be traveling within the community in your personal vehicle, is this acceptable to you?
+
+
+Additional Compensation:
+Other forms
+
+
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+Retirement plan
+Paid time off
+
+
+Schedule:
+Monday to Friday
+
+
+Company's website:
+www.merakey.org
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+Job Title: Therapist
+Company Title: JNBG
+
+
+
+
+A private psychology practice seeks a licensed therapist for our Metairie clinic with the opportunity to travel to our other locations if desired. Remote work is possible.
+We have been serving the community for over thirty years in all aspects of psychology, including pediatric evaluations, medical evaluations, worker's compensation, forensic, and much more.
+We have a team of people to handle the administrative tasks so you can focus on patient care. We provide credentialing, referrals, insurance verification, billing, collections, and scheduling. The income level depends on the number of patients you are willing to see each week.
+
+
+Licensure must be one of the following: LPC, LCSW, or LFMT.
+Please submit your resume or CV for consideration.
+
+
+Job Types: Full-time, Part-time
+
+
+Education:
+Master's (Required)
+
+
+Application Question:
+Which active Louisiana license do you hold? LPC, LCSW, or LFMT
+
+
+Work Location:
+One location
+Multiple locations
+
+
+Benefits:
+Other
+
+
+Schedule:
+Monday to Friday
+No weekends
+
+
+Company's website:
+
+
+http://www.jeffersonneuro.com/
+
+
+Company's Facebook page:
+
+
+https://www.facebook.com/JeffersonNeuro/
+
+
+Work Remotely:
+Temporarily due to COVID-19
+___________________________________________________________________________________
+#############################################
+CURRENT SECTOR == MARKETING
+#############################################
+Job Title: Assistant Professor of Marketing
+Company Title: DILLARD UNIVERSITY
+
+
+
+
+POSITION SUMMARY
+
+
+Dillard University is seeking a professor in marketing for the Department of Business Administration in the College of Business. The successful candidate will demonstrate the ability to teach a wide variety of marketing and related courses. Applicants with a demonstrated ability and experience in community engagement and experiential learning; as well as applicants with experience and a passion for teaching undergraduates in a small liberal arts environment will be given preference. Additional responsibilities will include advising undergraduate students, committee service, and contributions to the university's interdisciplinary general education program. The College of Business is accredited by ACBSP and provides a collegial academic environment with a strong focus on teaching, service and community involvement.
+
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+
+
+
+Duties and responsibilities associated with the position include:
+
+
+Engage in scholarship in the areas of curriculum/course development, active research, and quality service;
+
+
+
+
+Teach classes in marketing (preferred courses: principles of marketing, consumer behavior, marketing research, international marketing management and/or strategic marketing management) with a 4/4 teaching load;
+
+
+Engage with students by advising marketing clubs/organizations, national competitions, and student-run activities on campus;
+
+
+Assist with university and community service consistent with the mission of Dillard University.
+
+
+Works with the Assistant Vice President for Research and Effectiveness in coordinating efforts to meet regional accreditation standards and expectations;
+
+
+MINIMUM QUALIFICATIONS
+
+
+Doctoral degree in Marketing or related field from an accredited school; ABD’s will be considered.
+
+
+Rank will be commensurate with qualifications. The position will be available beginning August,
+
+
+2020. Review of applications will begin immediately, and continue until the position is filled.
+
+
+PREFERRED QUALIFICATIONS
+
+
+At least two to three years teaching experience and a willingness to teach a variety of marketing courses.
+
+
+A record of relevant industry experience or project-based learning initiatives with local businesses is highly desirable.
+
+
+A record of published research in peer reviewed marketing journals is desirable.
+
+
+HOW TO APPLY
+
+
+Applicants should submit an application, cover letter, a resume, unofficial transcripts from all institutions attended (official transcripts are required of all finalists), and three letters of reference.
+
+
+Dillard University is an equal opportunity/affirmative action employer. Individuals who require reasonable accommodations under the Americans with Disabilities Act in order to participate in the search process should notify the Office of Human Resources.
+___________________________________________________________________________________
+Job Title: Pharmaceutical Marketing Accounts Manager
+Company Title: SingleCare
+
+
+
+
+Whether you are an established healthcare sales professional or are just breaking into the field with no experience, SingleCare is a great opportunity for you. As a Marketing Accounts Manager you will help drive growth and shape the future of the healthcare industry. SingleCare’s free pharmacy savings card provides discounts of up to 80% on most FDA-approved prescription medications. We are looking for Regional Accounts Managers in Los Angeles.
+
+
+Responsibilities:
+Educate office staff how patients can save up to 80% on their prescription medications
+Distribute savings cards by engaging with medical offices and setting up displays/ Marketing materials.
+Build and maintain relationships with healthcare providers, serving as account manager
+Manage multiple accounts simultaneously
+Influence long-term strategic branding of SingleCare
+
+
+Qualifications:
+Technical and consultative sales skills with a proven sales track record is preferred
+Exceptional interpersonal skills and ability to build strong relationships
+Excellent verbal and written communication skills
+Strong presentation skills are preferred
+Ability to work independently and manage your time (set your own schedule)
+Reliable Transportation is a must
+Medical/pharmaceutical sales experience is preferred but not required
+
+
+Training and Compensation:
+Comprehensive sales training program offered
+100% commission-based
+Uncapped earning potential
+Monthly incentive bonus programs
+Compensation starts at $10 per discount card used- The more offices you have marketing materials in, the higher your monthly compensation will reflect.
+
+
+Glassdoor reflects an average annual Income of 65k, though many motivated account managers are quickly able to reach six figure revenue streams. -- > https://www.glassdoor.com/Salary/SingleCare-Services-Pharmaceutical-sales-rep-Salaries-E1735326_D_KO20,44.htm
+Interested in Applying?
+To be considered for a position at SingleCare, please fill out our application form at the link below. All qualified candidates will be contacted directly within the following weeks.
+
+
+https://singlecare.applicantstack.com/x/apply/a23ymw5e88u8
+
+
+Job Type: Commission
+
+
+Salary: $2,000.00 to $10,000.00 /month
+
+
+Experience:
+
+
+sales or marketing: 1 year (Preferred)
+
+
+Additional Compensation:
+Commission
+Bonuses
+
+
+Work Location:
+Multiple locations
+On the road
+
+
+Benefits:
+Flexible schedule
+Professional development assistance
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+Job Title: Event Specialist
+Company Title: Advantage Solutions
+
+
+
+
+Are you outgoing and enjoy interacting with people? If promoting brand awareness through product demonstration sounds appealing, then our Part Time Job is the right fit for you! We are looking for Brand Ambassadors to engage customers by promoting products to increase sales. If you have experience in food services, retail, and/or customer service or simply enjoy interacting with people, then we want to hear from you!
+
+
+
+
+Things to consider:
+Entry level position
+Events are typically 6 hours taking place at various times from Thursday - Sunday
+Average employee works 2-3 shifts per week, dependent on Event availability
+Based on location, there may be availability for extra shifts throughout the week
+Competitive pay rates
+Take this opportunity to join North America’s leading business solutions provider and build your career working with amazing people in a growing industry! Apply today!
+
+
+
+
+
+
+What We Offer:
+
+
+Paid Training and ongoing career development
+
+
+
+
+What You’ll Do:
+
+
+Interact in a friendly, enthusiastic, and outgoing manner with management and customers
+Generate brand awareness and positive product impressions to increase sales
+Assess customers’ needs and interests to best recommend products
+Set up, break down, product preparation and sampling during in-store demonstrations
+Timely completion of all call reports, paperwork, and on-going training
+
+
+Qualifications:
+
+
+High School Diploma preferred or equivalent job-related experience
+Sales and/or customer service experience preferred
+Daily Internet/email access and/or smartphone required
+Stand comfortably for up to 6 hours a day
+___________________________________________________________________________________
+Job Title: Marketing Coordinator
+Company Title: Grass Master Maintenance and Landscaping
+
+
+
+
+Grass Master is looking to hire a Marketing Coordinator to join our team!
+We are excited to announce we have a Marketing Coordinator position open due to company growth. This individual will have a BA in Communications, Journalism or English. Minimum 2-3 years of experience in marketing and/or communications or related activity. The ideal candidate will be responsible for managing communications, content marketing, writing, event planning and other activities as needed. They must be a highly motivated, personable, team-oriented individual with the ability to work both independently and within a team environment
+
+
+Duties and responsibilities of a Marketing Coordinator consist of, but are not limited to:
+Working with partners to manage the implementation of an overall Grass Master marketing and brand strategy
+Initiate and support execution of marketing campaigns, both digital and print. Including press releases, quarterly newsletters, direct mail and e-mail campaign materials, and others as identified.
+Manage communications, content marketing, writing, event planning and other activities as needed
+Manage photography shoots (planning and coordination)
+Assist with website content development and writing/development of internet content including current news, project images and project descriptions
+Field all press inquiries, help to pitch completed projects to publications and blogs, maintain a clear and organized database of submissions and publications
+Gather, format and maintain accurate, up-to-date firm marketing information including staff bios, project descriptions and statistics, and other information for project and firm marketing purposes
+Create and maintain all analytics (Google Analytics, Social Media insights) and internal databases to optimize marketing channel strategies
+Write, design, edit and prepare content for business development, presentations, award submittals and other marketing materials
+Establish, maintain, and create relationships with trade marketing peers
+Attend marketing events to promote Grass Master brand
+
+
+Qualifications:
+BA in Communications, Journalism or English
+2-3 years of experience in marketing and/or communications or related activity
+Exceptional verbal, and written communication skills
+Familiarity with the field of Landscape Architecture/Architecture
+Microsoft Office (Word & Excel) proficiency required
+Familiarity with Adobe Creative Suite (InDesign, Photoshop, Illustrator) a plus
+Highly motivated, personable, team-oriented individual with the ability to work both independently and within a team environment
+Competitive pay, eligible for health/dental/vision benefits, voluntary life, disability, accident policy, holidays, vacation and more.
+Grass Master is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+
+
+EEO is the Law: https://www1.eeoc.gov/employers/poster.cfm
+
+
+Job Type: Full-time
+
+
+Salary: $15.00 to $20.00 /hour
+
+
+Experience:
+
+
+Communications: 2 years (Required)
+
+
+analytics: 2 years (Required)
+
+
+Content Marketing: 2 years (Required)
+
+
+Adobe Creative Suite: 1 year (Required)
+
+
+Education:
+Bachelor's (Required)
+
+
+Location:
+Ponchatoula, LA 70454 (Preferred)
+
+
+License:
+Driver's License (Required)
+
+
+Work authorization:
+United States (Preferred)
+
+
+Application Question:
+Are you under a NDA or Non-Compete with a prior employer? If so, for how long and with who?
+
+
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+
+
+Schedule:
+Other
+
+
+Company's website:
+www.gograssmaster.com
+
+
+Company's Facebook page:
+
+
+https://www.facebook.com/GoGrassMaster/
+
+
+Benefit Conditions:
+Waiting period may apply
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+Job Title: Director of Development
+Company Title: Ronald McDonald House Charities of South Louisiana
+
+
+
+
+Ronald McDonald House Charities of South Louisiana
+Director of Development Position Description
+ABOUT US
+Ronald McDonald House Charities® of South Louisiana (RMHC-SLA)’s mission is to provide a “home- away-from-home” to families of seriously ill or injured children and programs that give comfort, compassion and care to children and their families. In 2019, its Ronald McDonald House New Orleans was just such a home to more than 435 families who traveled many miles to receive specialized medical care for their child at nearby medical facilities.
+At Ronald McDonald House they found a free place to stay, meals to eat, transportation if needed, and a built- in support system where families help one other. Headquartered in New Orleans, RMHC-SLA has been keeping families with sick children close together and near to the care and resources they need since 1983.
+As we look to our future, we want to increase the impact we’re making throughout south Louisiana. As part of this vision, we are expanding and relocating from our current home in Mid-City New Orleans to a new one on Children’s Hospital campus that will allow us to reach more families with expanded programming and community resources available.
+UNDERSTANDING THE ROLE
+RMHC-SLA is in an important moment of transition. The new House will require a multi-million campaign initiative we believe can usher in a new era of fundraising performance for the organization. We are seeking an experienced and passionate development professional to join our team, directing our steps through this transition and helping to build an ongoing, high-functioning fundraising program.
+The Director of Development for RMHC-SLA will be responsible for the planning and implementation of a comprehensive philanthropy program. S/he will develop and implement a multi-year, philanthropic vision and plan to support the strategic goals of the organization. This position will be empowered to lead fundraising activity to include prospect identification and research, cultivating and communications strategies, proposal development, solicitation strategies, donor stewardship, and constituency/database management. S/he will report to the Executive Director, and also work closely with the Board of Directors, volunteers and other members of the RMHC-SLA staff to establish and meet fundraising goals.
+S/he understands and complies with all RMHC-SLA gift-related policies and procedures and ensures ethical compliance, as defined by the Association of Fundraising Professionals.
+
+
+Responsibilities include:
+Develop, monitor and manage all aspects of a comprehensive annual fundraising plan (annual fund, major gifts program, foundation relations, corporate giving, special events, planned giving, direct mail, etc.)
+Collaborate with the Executive Director and capital campaign consultant on the leadership for the upcoming capital campaign
+Increase giving through solicitation, cultivation, recognition and stewardship of existing donors
+Develop new donor relationships through prospecting, research, and cultivation
+Provide training and resourcing to support the Executive Director and the Board of Directors in all aspects of fundraising
+Lead sponsorship acquisition for current fundraising events and develop and execute a signature event for RMHC-SLA, including all logistics and sponsorship planning
+Oversee and expand all third-party fundraising events
+Manage all foundation relations, including research, writing, and preparing ongoing support for grant opportunities
+Develop and manage the development budget
+Oversee the management of the Chapter’s donor database (currently Salesforce), including regular tracking and reporting
+Work with RMHC-SLA staff to identify and solicit in-kind donations, as necessary
+Conduct ongoing analysis of fundraising strategies to improve financial return on existing initiatives
+Promote community understanding, awareness and support of RMHC-SLA programs and activities through written and verbal communication with current and prospective donors, staff, volunteers
+Skills and Qualifications
+Bachelor’s degree in related field of work, with minimum 5-10 years of professional fundraising experience
+Proven experience developing and executing fundraising strategies
+History of successful major gift solicitations
+Knowledge of and experience working in the philanthropic climate in Louisiana, including New
+Orleans, Baton Rouge, and throughout south Louisiana
+The capacity to embrace and effectively communicate RMHC-SLA’s mission and the organization’s impact to the broader community
+Demonstrate problem-solving and decision-making skills with the ability to work in a flexible, team- oriented environment
+Ability to exercise initiative, good judgment and discretion
+Capital campaign experience preferred
+
+
+Physical Requirements:
+Primarily sedentary work, exerting up to 35 lbs. of force occasionally or a negligible amount frequently. Primary working position – sitting, with occasional standing, walking, stooping, crouching, and kneeling; frequent reaching, carrying, lifting, pushing, pulling, grasping, typing, talking- speaking clearly, hearing-conversation, and seeing-near.
+
+
+Work/Environmental:
+Moderate noise level consistent with an office environment, some travel may be required of this position. May work remotely based on current COVID-19 climate.
+*
+_
+
+
+Note: _
+
+
+The purpose of this document is to describe the general nature and level of work performed by personnel so classified; it is not intended to serve as an inclusive list of all responsibilities associated with this position.
+
+
+
+
+SCHEDULE
+Monday - Friday, 9 a.m. to 5 p.m., some nights and weekends if needed
+BENEFITS
+Health insurance
+Vacation and sick time
+Making a difference in the life of others
+
+
+Close date: 5/24/2020
+
+
+Job Type: Full-time
+
+
+Experience:
+
+
+fund raising: 5 years (Required)
+
+
+fundraising: 5 years (Required)
+
+
+Benefits:
+Health insurance
+Paid time off
+
+
+This Job Is Ideal for Someone Who Is:
+Detail-oriented -- would rather focus on the details of work than the bigger picture
+Achievement-oriented -- enjoys taking on challenges, even if they might fail
+High stress tolerance -- thrives in a high-pressure environment
+
+
+Schedule:
+Monday to Friday
+
+
+Company's website:
+
+
+htttps: //rmhc-sla.org
+
+
+Company's Facebook page:
+
+
+https://www.facebook.com/RMHCSLA
+
+
+Work Remotely:
+Temporarily due to COVID-19
+___________________________________________________________________________________
+Job Title: VIRTUAL - PR/Marketing Internship (Unpaid)
+Company Title: The Borgen Project
+
+
+
+
+The Borgen Project believes that leaders of the most powerful nation on earth should be doing more to address global poverty. The innovative, national campaign works to make poverty a focus of U.S. foreign policy (www.borgenproject.org).
+The Borgen Project is currently hiring a Public Relations/Marketing Intern who will work remotely.
+This public relations intern will be involved in a variety of aspects of marketing and communications.
+- Create a branding campaign.
+- Conduct an informal focus group and gather feedback for market research.
+- Pitch story ideas to print, broadcast and digital media.
+- Create and implement a fundraising strategy.
+- Plan, market and present at an informational meeting.
+- Utilize social media and develop strategies for web-based messaging.
+- Assist with The Borgen Project's advocacy efforts.
+- Take on assignments as needed.
+
+
+Details:
+This is an unpaid internship, although college credit is available. The internship is 12-hours per week for 12-weeks.
+We respond to every applicant within 14 days. Please check your spam folder for our emails and if nothing has been received, please email us.
+
+
+Job Types: Part-time, Internship
+___________________________________________________________________________________
+Job Title: Digital Marketing Coordinator
+Company Title: ABC Fire & Burglar Alarm
+
+
+
+
+Are you interested in working for the fastest growing security company in the area? ABC Fire & Burglar Alarm, LLC is looking for a detail-oriented, creative, and analytically minded Digital Marketing Coordinator. You will be designing, executing & optimizing our digital marketing strategies across multiple platforms. The ideal candidate must have a proven track record in executing and reporting on digital marketing campaigns and applied experience in search engine marketing, paid digital advertising, email marketing, and social media management.
+
+
+RESPONSIBILITIES:
+· Create, organize, plan, and post content on all ABC social media platforms consistently.
+· SEO & website maintenance
+· Keyword research, maintenance, and expansion
+· SEM across multiple platforms including AdWords and Facebook
+· Keyword bid and campaign budget management
+· Optimizing display advertising and paid search campaigns across multiple platforms
+· Create, analyze and update paid campaigns
+· Landing page optimization and testing
+· Reporting and Data Analysis
+· Measure and report performance of digital marketing campaigns and assess against predetermined goals (ROI and KPIs).
+· Evaluating and reporting on various SEM tactics including paid search, re-marketing, and display advertising
+· Creating and managing email marketing campaigns
+· Write, post content and maintain the ABC blog
+· Assist with the content and creation of ABC Facebook live videos, LinkedIn live videos and recorded video series
+· Support graphic design requests for digital and print projects as needed
+· Review new technologies and keep ABC at the forefront of developments in digital marketing.
+
+
+QUALIFICATIONS:
+· Bachelor's degree in Business Administration, Marketing or a related field
+· Minimum 3 years’ experience in a digital marketing role
+· Knowledge of SEO strategies and tactics.
+· Prior experience and strong working knowledge of Google Analytics and Google Ads.
+· Experience in setting up and optimizing Google AdWords, paid search and display ad campaigns
+· Demonstrated experience building and executing social media campaigns, including paid social, across major social networks.
+· Experience building and monitoring email campaigns using industry tools such as Mailchimp.
+· Experience analyzing and reporting data in order to identify issues, trends, or exceptions to drive improvement.
+· Data driven and extremely analytical.
+· Outstanding communication skills - both verbal and written.
+· Highly motivated, resourceful, and self-directed with the ability to multitask.
+· Ability to work in a fast-paced environment.
+· Willing to work closely within a team structure.
+· Able to problem solve, prioritize tasks and manage time effectively.
+
+
+Job Type: Full-time
+
+
+Experience:
+
+
+digital marketing: 3 years (Required)
+
+
+marketing: 3 years (Preferred)
+
+
+Work Location:
+One location
+
+
+Benefits:
+Health insurance
+Dental insurance
+Paid time off
+
+
+Schedule:
+Monday to Friday
+
+
+Company's website:
+
+
+https://www.abcfireburglar.com
+
+
+Company's Facebook page:
+
+
+https://www.facebook.com/abcfireburglar
+
+
+Work Remotely:
+No
+___________________________________________________________________________________
+
+
+Position Type:
+Unclassified/Exempt
+
+
+
+
+Department:
+College Administration
+
+
+
+
+Reports To:
+Chancellor
+
+
+
+
+Job Summary:
+Full time 12-month professional executive staff member will serve as the senior advisor to the Chancellor; plan, direct and assist in the design, production and implementation of all advertising, marketing and public relations activities; represent, communicate and speak on behalf of the organization in interviews and press conferences; and direct the response to all inquiries from outside the organization and serve as the liaison between the organization and all media.
+
+
+
+
+Summary of Duties:
+
+
+Assist the Chancellor with speeches, remarks and digital presentations.
+
+
+Schedule and maintain the Chancellor’s calendar.
+
+
+Inform the public of the college’s innovative programs, positive developments, employee promotions, personal achievements, retirements and other goodwill information.
+
+
+Oversee, develop, plan and maintain the college’s social media efforts.
+
+
+Research and draft correspondence and media communications requested by the Chancellor. Oversee the design and production of all marketing, public relations and advertising materials.
+
+
+Study the college’s strategic plan, goals and objectives to develop PR and marketing strategies.
+
+
+Work as part of the senior leadership team to manage a large volume of projects and activities with skill and diplomacy.
+
+
+Ensure that the Chancellor’s priorities and strategic initiatives are communicated, well-coordinated, and implemented.
+
+
+Serve as a liaison between the Chancellor’s office and internal/external constituents.
+
+
+
+
+
+
+Minimum Qualification/Work Experience:
+Bachelor’s Degree required with 8 or more years of experience in public relations, communications/media, journalism or marketing; possesses outstanding organizational and oral and written communication skills; computer knowledge, and demonstrated creativity. Evidence of successful media campaign or project, experience in use of multiple media and communication tools and applications and experience with developing promotional materials and/or presentations.
+
+
+
+
+Preferred Qualifications/Work Experience:
+Master’s Degree with 5 or more years of experience.
+
+
+
+
+Physical Demands:
+
+
+Ability to be able to lift up to 25lbs, ability to perform the following activities minimally up to 10% of the time, Bend; climb; crawl; reach; sit; squatting/kneeling; stand; twist; walk; work above shoulder.
+
+
+
+
+
+
+Work Hours:
+40 hours per week, a flexible schedule may include evenings and weekends; some overtime may be required.
+
+
+
+
+Posting Date:
+04/24/2020
+
+
+
+
+Closing Date:
+05/01/2020
+
+
+
+
+To apply:
+Send resume, cover letter, and contact information for three professional references to
+
+
+Nunez Community College
+Office of Human Resources
+
+
+
+
+By mail:
+3710 Paris Rd. Chalmette, LA 70043
+
+
+
+
+By email (preferred):
+
+
+ Put " Chief Public Information Officer” in the subject line: resumes@nunez.edu
+
+
+ADA & EOE
+___________________________________________________________________________________
+Job Title: Grant Writer in the Folsom, LA or surrounding areas
+Company Title: New Heights Therapeutic Riding Center
+
+
+
+
+Grant Writer in
+local area
+.
+New Heights Therapeutic Riding Center in Folsom, LA seeks a
+local
+Grant Writer responsible for supporting NHT mission through effective and timely development and implementation of grant applications and renewals. The Grant Writer is responsible for increasing revenue through research and proposal preparation and submission, as well as identification of new prospects. This is a contract position.
+Candidate must work in nearby vicinity of Folsom, Northshore or Southshore preferred.
+KEY JOB ACTIVITIES
+Proposal Development and Submission
+Identify and qualify new prospects for support.
+Research funding opportunities through websites, databases, and internet research, with input from the Executive Director.
+Prepare grant proposals by researching current data on issues, drafting proposals and budgets, and incorporating feedback from staff.
+Collaborate with Executive Director, Director of Programs, Operations Manager, and other staff, to incorporate program data into proposals and reports.
+Submit all grant proposals to funders, including budgets and attachments, on time.
+Develop and maintain a broad base of knowledge about topics relevant to New Heights (therapeutic riding, horse care..)
+Connect with online resources for notifications about funding opportunities.
+Develop an annual calendar of grant opportunities and reports.
+Stewardship and Grant Tracking
+Track grant due dates, submissions, funding decision timelines, and communications with funders in EquiForce (version of Salesforce).
+Run reports of prospect/funder activity and track progress.
+Follow-up on approved or declined grants, including writing acknowledgement letters to help relationships with foundation and corporate staff.
+Prepare Fact sheet/talking points
+
+
+REQUIREMENTS:
+Bachelor’s Degree or a minimum of five years related experience or equivalent.
+Minimum of two years of fundraising/grant writing experience preferred.
+Excellent written and verbal communications skills.
+Strong organizational skills and ability to meet deadlines.
+
+
+Computer Skills: proficient with Microsoft Office, including Power Point, Excel and Word. EquiForce (version of Salesforce) and WordPress experience a plus.
+
+
+Familiarity with social media: Facebook, Twitter, LinkedIn.
+About Us
+New Heights Therapeutic Riding Center is a 501(c)3 nonprofit organization founded in 1998. We are a premier therapeutic equestrian center dedicated to positively impacting lives through the healing power of the horse. We help people who have physical, cognitive, and emotional difficulties reach their full potential. We serve a wide variety of groups and individuals in our community and beyond.
+
+
+http://www.newheightstherapy.org
+
+
+Job Type: Contract
+
+
+Salary: $5,000.00 /year
+
+
+Experience:
+
+
+Grant Writer: 5 years (Preferred)
+
+
+Location:
+Folsom, LA 70437 (Preferred)
+
+
+Full Time Opportunity:
+No
+
+
+Work Location:
+One location
+Fully Remote
+
+
+Benefits:
+Work from home
+
+
+Schedule:
+Other
+
+
+Company's website:
+New Heights Therapy Center
+
+
+Company's Facebook page:
+NewHeightsTherapeuticRidingCenter.org
+
+
+Work Remotely:
+Temporarily due to COVID-19
+___________________________________________________________________________________
+Job Title: SEM Campaign Creative
+Company Title: inn8media
+
+
+
+
+
+
+Job Description: SEM Campaign Creative
+
+
+Hours: Flexible - Part Time $30-40/hr (contract paid on campaigns created basis)
+
+
+Location: United States Resident Only - 100% Remote
+The SEM campaign creative will work with management and ownership to research, identify and create paid search engine marketing campaigns to drive traffic to management's various owned and operated websites. Core duties will involve researching and identifying search keyword niches for campaign creation, developing campaign creatives (ad copy, images, etc), and preparing campaigns for subsequent handoff to management for feedback and/or approval of campaign launch. Ideal candidate is a creative, enjoys learning, writing captivating headlines and ad copy, is socially intuitive and a self managed individual. Applicants must be flexible with night and weekend availability, can work at their own pace, and be able to hit deadlines while maintaining quality work and turnaround times for campaign changes. All applicants must be US residents, and have at least 2 years of paid search engine marketing experience with Google Ads and Microsoft Advertising platforms, and provide details of successful campaigns worked on (industry/vertical, campaign performance, stats, etc.).
+
+
+Responsibilities:
+Manage all aspects of search marketing campaigns, including keyword research, asset collection, content curation, ad copy creative, campaign set up and implementation, and monitoring campaign performance
+Responsible for planning and executing campaigns to meet weekly number of new campaign creation targets and keyword research
+Track, report and analyze campaign data and performance
+Work collaboratively and maintain cohesive, responsive communication with writers, engineering and management via Slack, email and/or occasional conference call
+
+
+Qualifications:
+Ability to multitask in a dynamic, startup-like environment while always demonstrating strong attention to detail
+Self-motivated
+Critical thinker that focuses on finding solutions to problems
+Basic mathematical, analytical experience and decision making from data
+Excellent organizational, planning and writing skills with the ability and desire to meet tight deadlines
+Eagerness to learn about new topics in health and/or finance
+Proficient in Microsoft Office and Google applications
+
+
+Personal Attributes:
+Action-oriented
+Interpersonal savvy
+Learning on the fly
+Dealing with ambiguity
+Timely decision making
+Planning and Composure
+Process Management
+Enthusiastic
+
+
+﻿Education/Certification/Special Skills:
+Bachelor’s Degree
+Google Adwords and/or Google Analytics certification is a plus
+
+
+Job Type: Part-time
+
+
+Salary: $30.00 to $40.00 /hour
+
+
+Experience:
+
+
+SEM: 2 years (Required)
+
+
+Shifts:
+Mid-Day (Preferred)
+Evening (Preferred)
+
+
+Application Question:
+Briefly describe a recent successful paid search campaign you worked on (vertical/industry, performance, etc).
+
+
+Work Location:
+Fully Remote
+
+
+Benefits:
+None
+
+
+Typical start time:
+10AM
+
+
+Typical end time:
+10PM
+
+
+This Job Is Ideal for Someone Who Is:
+Dependable -- more reliable than spontaneous
+People-oriented -- enjoys interacting with people and working on group projects
+Adaptable/flexible -- enjoys doing work that requires frequent shifts in direction
+Detail-oriented -- would rather focus on the details of work than the bigger picture
+Achievement-oriented -- enjoys taking on challenges, even if they might fail
+Autonomous/Independent -- enjoys working with little direction
+Innovative -- prefers working in unconventional ways or on tasks that require creativity
+
+
+Schedule:
+Monday to Friday
+Weekends required
+Day shift
+Night shift
+Other
+
+
+Company's website:
+inn8media.com
+
+
+Work Remotely:
+Yes
+___________________________________________________________________________________

@@ -1,0 +1,267 @@
+﻿1.
+SELECT DISTINCT last_name
+FROM worker
+ORDER BY last_name;
+
+
+2.
+SELECT per_id, pay_rate
+FROM works NATURAL JOIN job
+ORDER BY pay_rate DESC;
+
+
+3.
+AZ:
+SELECT avg(pay_rate * 1920), store_id
+FROM job NATURAL JOIN pays
+GROUP BY store_id
+ORDER BY pay_rate DESC;
+
+
+GV:
+SELECT avg(pay_rate * 1920), fac_id
+FROM job NATURAL JOIN provides NATURAL JOIN company_factory
+GROUP BY fac_id
+ORDER BY pay_rate DESC;
+
+
+4.
+SELECT pos_code, title
+FROM skill NATURAL JOIN requires;
+
+
+5.
+SELECT per_id, title
+FROM has_skill NATURAL JOIN skill;
+
+
+6.
+SELECT per_id, required_skills AS skill
+FROM job NATURAL JOIN works
+EXCEPT(
+	SELECT per_id, title
+	FROM has_skill NATURAL JOIN skill);
+
+
+7.
+SELECT sum(price) AS Total_Price, item_num, count(item_num) AS Total_Num_Items
+FROM sales 
+GROUP BY item_num;
+
+
+8.
+WITH highest_profit(value) AS (
+	SELECT max(price)
+	FROM sales)
+SELECT item_num, title
+FROM inventory NATURAL JOIN unit, highest_profit
+WHERE highest_profit.value = sales.price;
+
+
+9.
+SELECT item_num
+FROM inventory NATURAL JOIN unit
+WHERE quantity < min_level;
+
+
+10.
+SELECT cus_id, sum(sal_amount) as total_sales
+FROM contract
+GROUP BY cus_id;
+
+
+11.
+WITH max_quantity (value) AS
+	(SELECT max (quantity) 
+	FROM material)
+SELECT m_code, m_name, max(quantity)
+FROM material, purchaseline, purchase, sup_order_num, max_quantity
+WHERE material.quantity = max_quantity.value AND quarter = 4;
+
+
+12.
+WITH max_quantity(value) AS
+	(SELECT max_quantity(quantity)
+	FROM lineitem)
+SELECT fac_name
+FROM lineitem, contract, makes, max_quantity
+WHERE lineitem.quantity = max_quantity.value AND date LIKE ‘%2018%’;
+
+
+13.
+//Assume per_id = 12345
+SELECT per_id, job_code
+FROM works
+WHERE per_id = 12345;
+
+
+14.
+// Date Format = dd_mm_yyyy
+Assume pos_code = 1000
+SELECT pos_code, per_id, name, job_title, SUBSTRING(‘start_date’, 7, 10) AS start_year, SUBSTRING(‘end_date’, 7, 10) AS end_year
+FROM person NATURAL JOIN works NATURAL JOIN job
+WHERE pos_code = 1000;
+
+
+15.
+//Assume pos_code = 2000
+SELECT per_id
+FROM person NATURAL JOIN works
+WHERE pos_code = 2000
+NOT IN(
+	SELECT per_id
+	FROM person NATURAL JOIN works
+	WHERE start_date <= end_date);
+
+
+16.
+SELECT avg (pay_rate * 1920) AS avg_pay, min (pay_rate) AS min_pay, max (pay_rate) AS max_pay
+FROM GICS NATURAL JOIN industry NATURAL JOIN provides NATURAL JOIN job NATURAL JOIN pay_type
+GROUP BY avg_pay, min_pay, max_pay
+ORDER BY ind_title;
+
+
+17.
+SELECT comp_id, ind_id, industry_group
+FROM company NATURAL JOIN(
+SELECT comp_id, ind_id, max(employee_count)
+FROM industry NATURAL JOIN (
+	SELECT comp_id, count (per_id) as employee_count
+	FROM works NATURAL JOIN provides
+	GROUP BY comp_id));
+
+
+18.
+SELECT ind_id, sum (count) AS total_employee
+FROM industry NATURAL JOIN (
+	SELECT comp_id, count(per_id) as count
+	FROM works NATURAL JOIN provides
+	GROUP BY comp_id)
+GROUP BY ind_id;
+
+
+19.
+//ASSUME per_id = 1000
+//ASSUME pos_code = 6000
+SELECT c_code as Course_ID, title
+FROM teaches NATURAL JOIN courses 
+WHERE Course_ID = c_code IN(
+	SELECT c_code, sk_code
+	FROM requires
+	WHERE pos_code = 6000
+	EXCEPT(
+		SELECT sk_code
+		FROM has_skill
+		WHERE per_id = 6000));
+
+
+20.
+//Assume per_id = 1000
+SELECT job_code, max(pay_rate) AS salary
+FROM pay_type NATURAL JOIN job NATURAL JOIN (
+	SELECT job_code
+	FROM requires_by_job NATURAL JOIN (
+		SELECT sk_code
+		FROM has_skill
+		WHERE per_id = 1000));
+
+
+21.
+//Assume pos_code = 3000
+SELECT name, email
+FROM person NATURAL JOIN has_skill
+WHERE sk_code IN
+	(SELECT sk_code
+	FROM requires
+	WHERE pos_code = 3000);
+
+
+22.
+//ASSUME pos_code = 4000
+WITH skills_needed (value) as (
+	SELECT count(sk_code) as pos_skill_count
+	FROM requires
+	WHERE pos_code = 4000)
+SELECT per_id, count(sk_code) as person_skill_count
+FROM has_skill, skills_needed
+WHERE (skills_needed.value - person_skill_count) < 4
+GROUP BY per_id;
+
+
+23.
+//ASSUME pos_code = 5000
+WITH skills_needed (value) as (
+	SELECT count(sk_code) as pos_skill_count
+	FROM requires
+	WHERE pos_code = 5000)
+SELECT per_id, (skill_needed.value - count(sk_code)) as person_skill_count
+FROM has_skill, skills_needed
+GROUP BY per_id
+ORDER BY person_skill_count;
+
+
+24.
+//ASSUME pos_code = 1000
+SELECT per_id, sk_code
+FROM has_skill NATURAL JOIN requires
+WHERE pos_code = 1000;
+
+
+25.
+(WITH prev_job(value) AS(
+	SELECT max(end_date)
+	FROM works
+	WHERE end_date IS NOT NULL)
+SELECT job_code, pay_rate AS old_pay_rate
+FROM works NATURAL JOIN job NATURAL JOIN pay_type
+WHERE end_date = prev_job.value)
+
+UNION
+
+(WITH prev_job(value) AS(
+	SELECT start_date
+	FROM works)
+SELECT job_code, pay_rate
+FROM works NATURAL JOIN job NATURAL JOIN pay_type
+WHERE start_date > prev_job.value);
+
+
+26.
+SELECT pos_code
+FROM requires NATURAL JOIN requires_by_job NATURAL JOIN works
+	EXCEPT
+	(SELECT pos_code
+	FROM works NATURAL JOIN requires_by_job NATURAL JOIN requires
+	WHERE end_date IS NOT NULL);
+
+
+27.
+WITH course_needed(value) AS(
+SELECT pos_code as needed_pos
+FROM requires NATURAL JOIN requires_by_job NATURAL JOIN works
+	EXCEPT(
+		SELECT pos_code
+		FROM works NATURAL JOIN requires_by_job NATURAL JOIN requires
+		WHERE end_date IS NOT NULL))
+SELECT c_code
+FROM course, course_needed NATURAL JOIN requires NATURAL JOIN teaches
+WHERE needed_pos = pos_code;
+
+
+28.
+//ASSUME job_code = 7000
+//ASSUME per_id = 1000
+WITH skill_needed (value) as (
+	SELECT sk_code
+	FROM requires NATURAL JOIN requires_by_job
+	WHERE job_code = 7000)
+SELECT c_code as course, sk_code
+FROM (
+	SELECT c_code, sk_code
+	FROM requires NATURAL JOIN requires_by_job NATURAL JOIN teaches
+	WHERE job_code = 7000
+	EXCEPT(
+		SELECT sk_code, c_code
+		FROM has_skill NATURAL JOIN teaches
+		WHERE per_id = 1000))
+WHERE course = c_code AND sk_code = skill_needed.value;
